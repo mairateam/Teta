@@ -1,0 +1,6710 @@
+{
+ "client": "Teta",
+ "country": "CZ",
+ "geo": "2203",
+ "language": "1021",
+ "customer_id": "8343406245",
+ "categories": [
+  {
+   "id": "drogerie",
+   "name": "Drogerie obecně"
+  },
+  {
+   "id": "plet",
+   "name": "Péče o pleť"
+  },
+  {
+   "id": "deti",
+   "name": "Děti"
+  },
+  {
+   "id": "telo",
+   "name": "Tělo a hygiena"
+  },
+  {
+   "id": "prani",
+   "name": "Praní"
+  },
+  {
+   "id": "uklid",
+   "name": "Úklid a domácnost"
+  },
+  {
+   "id": "nadobi",
+   "name": "Mytí nádobí"
+  },
+  {
+   "id": "vlasy",
+   "name": "Vlasy"
+  },
+  {
+   "id": "usta",
+   "name": "Ústní hygiena"
+  },
+  {
+   "id": "makeup",
+   "name": "Make-up a parfémy"
+  },
+  {
+   "id": "mazlicci",
+   "name": "Mazlíčci"
+  }
+ ],
+ "vertical_kws": [
+  [
+   "drogerie",
+   "drogerie"
+  ],
+  [
+   "německá drogerie",
+   "drogerie"
+  ],
+  [
+   "německé drogerie",
+   "drogerie"
+  ],
+  [
+   "levná drogerie",
+   "drogerie"
+  ],
+  [
+   "online drogerie",
+   "drogerie"
+  ],
+  [
+   "drogerie online",
+   "drogerie"
+  ],
+  [
+   "drogerie eshop",
+   "drogerie"
+  ],
+  [
+   "německá drogerie eshop",
+   "drogerie"
+  ],
+  [
+   "drogerie levně",
+   "drogerie"
+  ],
+  [
+   "levná drogerie e shop",
+   "drogerie"
+  ],
+  [
+   "nejlevnější drogerie online",
+   "drogerie"
+  ],
+  [
+   "drogerie shop",
+   "drogerie"
+  ],
+  [
+   "eshop drogerie",
+   "drogerie"
+  ],
+  [
+   "e shop drogerie",
+   "drogerie"
+  ],
+  [
+   "drogerie z dovozu",
+   "drogerie"
+  ],
+  [
+   "drogerie lacina eshop",
+   "drogerie"
+  ],
+  [
+   "drogerie akce",
+   "drogerie"
+  ],
+  [
+   "drogerie e shop",
+   "drogerie"
+  ],
+  [
+   "online drogerie shop",
+   "drogerie"
+  ],
+  [
+   "drogerie levne eshop",
+   "drogerie"
+  ],
+  [
+   "pařížské parfémy",
+   "makeup"
+  ],
+  [
+   "mop",
+   "uklid"
+  ],
+  [
+   "parfemy",
+   "makeup"
+  ],
+  [
+   "korejská kosmetika",
+   "plet"
+  ],
+  [
+   "menstruační kalhotky",
+   "telo"
+  ],
+  [
+   "barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "barvy na vlasy",
+   "vlasy"
+  ],
+  [
+   "francouzské parfémy",
+   "makeup"
+  ],
+  [
+   "granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "holicí strojek",
+   "telo"
+  ],
+  [
+   "holící strojek",
+   "telo"
+  ],
+  [
+   "holící strojek na vousy",
+   "telo"
+  ],
+  [
+   "holicí strojky",
+   "telo"
+  ],
+  [
+   "toaletní papír",
+   "uklid"
+  ],
+  [
+   "elektrický kartáček",
+   "usta"
+  ],
+  [
+   "make up",
+   "makeup"
+  ],
+  [
+   "parfém",
+   "makeup"
+  ],
+  [
+   "makeup cz",
+   "makeup"
+  ],
+  [
+   "mop na podlahu",
+   "uklid"
+  ],
+  [
+   "mezizubní kartáčky",
+   "usta"
+  ],
+  [
+   "sonický kartáček",
+   "usta"
+  ],
+  [
+   "sonický kartacek",
+   "usta"
+  ],
+  [
+   "parfémy cz",
+   "makeup"
+  ],
+  [
+   "granule pro kočky",
+   "mazlicci"
+  ],
+  [
+   "granule pro kotata",
+   "mazlicci"
+  ],
+  [
+   "deodorant",
+   "telo"
+  ],
+  [
+   "tablety do myčky",
+   "nadobi"
+  ],
+  [
+   "opalovací krém",
+   "plet"
+  ],
+  [
+   "holici strojek pro muze",
+   "telo"
+  ],
+  [
+   "holicí strojek pro muže",
+   "telo"
+  ],
+  [
+   "holící strojek pro muže",
+   "telo"
+  ],
+  [
+   "toaletní papír akce",
+   "uklid"
+  ],
+  [
+   "šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "sampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "řasenka",
+   "makeup"
+  ],
+  [
+   "antiperspirant",
+   "telo"
+  ],
+  [
+   "mop na vytírání",
+   "uklid"
+  ],
+  [
+   "šampon",
+   "vlasy"
+  ],
+  [
+   "maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "masky na vlasy",
+   "vlasy"
+  ],
+  [
+   "elektrický zubní kartáček",
+   "usta"
+  ],
+  [
+   "dámský parfém",
+   "makeup"
+  ],
+  [
+   "pánský parfém",
+   "makeup"
+  ],
+  [
+   "kapsičky pro kočky",
+   "mazlicci"
+  ],
+  [
+   "spf na obličej",
+   "plet"
+  ],
+  [
+   "plenky pro dospělé",
+   "telo"
+  ],
+  [
+   "vložky",
+   "telo"
+  ],
+  [
+   "aviváž",
+   "prani"
+  ],
+  [
+   "osvěžovač vzduchu",
+   "uklid"
+  ],
+  [
+   "čistič odpadů",
+   "uklid"
+  ],
+  [
+   "tablety do myčky akce",
+   "nadobi"
+  ],
+  [
+   "jednosvazkový kartáček",
+   "usta"
+  ],
+  [
+   "lak na nehty",
+   "makeup"
+  ],
+  [
+   "laky na nehty",
+   "makeup"
+  ],
+  [
+   "stelivo pro kočky",
+   "mazlicci"
+  ],
+  [
+   "tampony",
+   "telo"
+  ],
+  [
+   "holici strojek",
+   "telo"
+  ],
+  [
+   "parfem na prani",
+   "prani"
+  ],
+  [
+   "elektrický mop",
+   "uklid"
+  ],
+  [
+   "olej na vlasy",
+   "vlasy"
+  ],
+  [
+   "oleje na vlasy",
+   "vlasy"
+  ],
+  [
+   "pánské parfémy",
+   "makeup"
+  ],
+  [
+   "gel lak na nehty",
+   "makeup"
+  ],
+  [
+   "parfem damsky",
+   "makeup"
+  ],
+  [
+   "gelové laky na nehty",
+   "makeup"
+  ],
+  [
+   "vůně",
+   "makeup"
+  ],
+  [
+   "pamlsky pro psy",
+   "mazlicci"
+  ],
+  [
+   "kočkolit",
+   "mazlicci"
+  ],
+  [
+   "micelární voda",
+   "plet"
+  ],
+  [
+   "opalovací krém 50",
+   "plet"
+  ],
+  [
+   "plenky",
+   "deti"
+  ],
+  [
+   "látkové pleny",
+   "deti"
+  ],
+  [
+   "detske prikrmy",
+   "deti"
+  ],
+  [
+   "sprchový gel",
+   "telo"
+  ],
+  [
+   "inkontinenční vložky",
+   "telo"
+  ],
+  [
+   "poporodní vložky",
+   "telo"
+  ],
+  [
+   "holici strojek pro zeny",
+   "telo"
+  ],
+  [
+   "prací gel",
+   "prani"
+  ],
+  [
+   "sůl do myčky",
+   "nadobi"
+  ],
+  [
+   "lak na vlasy",
+   "vlasy"
+  ],
+  [
+   "suchý šampon",
+   "vlasy"
+  ],
+  [
+   "fialový šampon",
+   "vlasy"
+  ],
+  [
+   "odbarvovač na vlasy",
+   "vlasy"
+  ],
+  [
+   "fialovy sampon",
+   "vlasy"
+  ],
+  [
+   "zubní kartáček",
+   "usta"
+  ],
+  [
+   "dětský elektrický kartáček",
+   "usta"
+  ],
+  [
+   "kartáček na zuby",
+   "usta"
+  ],
+  [
+   "zubní kartáčky",
+   "usta"
+  ],
+  [
+   "dětské elektrické kartáčky",
+   "usta"
+  ],
+  [
+   "kartacek na zuby",
+   "usta"
+  ],
+  [
+   "rtěnka",
+   "makeup"
+  ],
+  [
+   "pudr",
+   "makeup"
+  ],
+  [
+   "levné parfémy",
+   "makeup"
+  ],
+  [
+   "parfémy pro ženy",
+   "makeup"
+  ],
+  [
+   "parfem pro zeny",
+   "makeup"
+  ],
+  [
+   "kapsičky pro kočky akce",
+   "mazlicci"
+  ],
+  [
+   "spf 50 na obličej",
+   "plet"
+  ],
+  [
+   "menstruacni kalhotky",
+   "telo"
+  ],
+  [
+   "přírodní deodorant",
+   "telo"
+  ],
+  [
+   "intimni gel",
+   "telo"
+  ],
+  [
+   "intimni deodorant",
+   "telo"
+  ],
+  [
+   "prací prášek",
+   "prani"
+  ],
+  [
+   "parfém na praní",
+   "prani"
+  ],
+  [
+   "avivaz",
+   "prani"
+  ],
+  [
+   "prací prášky",
+   "prani"
+  ],
+  [
+   "šampon proti vypadávání vlasů",
+   "vlasy"
+  ],
+  [
+   "rozmarýnový olej na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na vši",
+   "vlasy"
+  ],
+  [
+   "cesnekovy sampon",
+   "vlasy"
+  ],
+  [
+   "modrá barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "fialová barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "zubní pasta",
+   "usta"
+  ],
+  [
+   "elektricky kartacek",
+   "usta"
+  ],
+  [
+   "parfémy dámské",
+   "makeup"
+  ],
+  [
+   "parfémy na praní",
+   "prani"
+  ],
+  [
+   "krmiva pro psy",
+   "mazlicci"
+  ],
+  [
+   "dámský holící strojek",
+   "telo"
+  ],
+  [
+   "papírové utěrky",
+   "uklid"
+  ],
+  [
+   "nejlepší mop na vytírání",
+   "uklid"
+  ],
+  [
+   "kapsle do myčky",
+   "nadobi"
+  ],
+  [
+   "leštidlo do myčky",
+   "nadobi"
+  ],
+  [
+   "kondicionér",
+   "vlasy"
+  ],
+  [
+   "šampon na růst vlasů",
+   "vlasy"
+  ],
+  [
+   "šampon na mastné vlasy",
+   "vlasy"
+  ],
+  [
+   "růžová barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "červená barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "hnědá barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "ústní voda",
+   "usta"
+  ],
+  [
+   "sonicky kartacek",
+   "usta"
+  ],
+  [
+   "elektrický kartáček na zuby",
+   "usta"
+  ],
+  [
+   "kartacek",
+   "usta"
+  ],
+  [
+   "el kartacek na zuby",
+   "usta"
+  ],
+  [
+   "parfem pansky",
+   "makeup"
+  ],
+  [
+   "parfémy pánské",
+   "makeup"
+  ],
+  [
+   "parfém pánský",
+   "makeup"
+  ],
+  [
+   "konzervy pro kočky",
+   "mazlicci"
+  ],
+  [
+   "granule pro štěňata",
+   "mazlicci"
+  ],
+  [
+   "dětské pleny",
+   "deti"
+  ],
+  [
+   "tělové mléko",
+   "telo"
+  ],
+  [
+   "holící strojek na vlasy",
+   "vlasy"
+  ],
+  [
+   "holící strojek na hlavu",
+   "telo"
+  ],
+  [
+   "kapsle na praní",
+   "prani"
+  ],
+  [
+   "praci gel v akci",
+   "prani"
+  ],
+  [
+   "pytle na odpad",
+   "uklid"
+  ],
+  [
+   "mopy na podlahu",
+   "uklid"
+  ],
+  [
+   "tablety do mycky",
+   "nadobi"
+  ],
+  [
+   "arganový olej na vlasy",
+   "vlasy"
+  ],
+  [
+   "přírodní barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "kopřivový šampon",
+   "vlasy"
+  ],
+  [
+   "šampon na lupy",
+   "vlasy"
+  ],
+  [
+   "suchy sampon",
+   "vlasy"
+  ],
+  [
+   "kondicionér na vlasy",
+   "vlasy"
+  ],
+  [
+   "blond barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "česnekový šampon",
+   "vlasy"
+  ],
+  [
+   "světle hnědá barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "sonický zubní kartáček",
+   "usta"
+  ],
+  [
+   "elektrické zubní kartáčky",
+   "usta"
+  ],
+  [
+   "elektrický kartáček dětský",
+   "usta"
+  ],
+  [
+   "elektricky kartacek detsky",
+   "usta"
+  ],
+  [
+   "parfémy pro muže",
+   "makeup"
+  ],
+  [
+   "parfum cz",
+   "makeup"
+  ],
+  [
+   "rasenka",
+   "makeup"
+  ],
+  [
+   "parfém pro muže",
+   "makeup"
+  ],
+  [
+   "essence řasenka",
+   "makeup"
+  ],
+  [
+   "krmivo pro kočky",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy akce",
+   "mazlicci"
+  ],
+  [
+   "granule pro kočky akce",
+   "mazlicci"
+  ],
+  [
+   "psí granule",
+   "mazlicci"
+  ],
+  [
+   "korejske masky",
+   "plet"
+  ],
+  [
+   "korejské masky",
+   "plet"
+  ],
+  [
+   "dětská kosmetika",
+   "deti"
+  ],
+  [
+   "muselinove plenky",
+   "deti"
+  ],
+  [
+   "pánský holící strojek",
+   "telo"
+  ],
+  [
+   "elektrický holící strojek",
+   "telo"
+  ],
+  [
+   "prací prášek akce",
+   "prani"
+  ],
+  [
+   "prášky na praní",
+   "prani"
+  ],
+  [
+   "vlhčený toaletní papír",
+   "uklid"
+  ],
+  [
+   "čistič myčky",
+   "nadobi"
+  ],
+  [
+   "kofeinový šampon",
+   "vlasy"
+  ],
+  [
+   "šampon na kudrnaté vlasy",
+   "vlasy"
+  ],
+  [
+   "bezoplachový kondicionér",
+   "vlasy"
+  ],
+  [
+   "barva na vlasy bez amoniaku",
+   "vlasy"
+  ],
+  [
+   "zrzavá barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "barvení vlasů",
+   "vlasy"
+  ],
+  [
+   "sonický kartáček pro děti",
+   "usta"
+  ],
+  [
+   "dětský sonický kartáček",
+   "usta"
+  ],
+  [
+   "elektrický kartáček pro děti",
+   "usta"
+  ],
+  [
+   "zubní kartáček elektrický",
+   "usta"
+  ],
+  [
+   "zubní pasta bez fluoru",
+   "usta"
+  ],
+  [
+   "mezizubní kartáček",
+   "usta"
+  ],
+  [
+   "elektricky kartacek pro deti",
+   "usta"
+  ],
+  [
+   "dětské sonické kartáčky",
+   "usta"
+  ],
+  [
+   "parfém na prádlo",
+   "prani"
+  ],
+  [
+   "oční stíny",
+   "makeup"
+  ],
+  [
+   "černá rtěnka",
+   "makeup"
+  ],
+  [
+   "přírodní parfém",
+   "makeup"
+  ],
+  [
+   "stelivo pro kočky akce",
+   "mazlicci"
+  ],
+  [
+   "krém na pigmentové skvrny",
+   "plet"
+  ],
+  [
+   "dětské příkrmy",
+   "deti"
+  ],
+  [
+   "levne plenky",
+   "deti"
+  ],
+  [
+   "latkove pleny",
+   "deti"
+  ],
+  [
+   "kup plenky",
+   "deti"
+  ],
+  [
+   "plenkove kalhotky",
+   "deti"
+  ],
+  [
+   "holicí strojek pánský",
+   "telo"
+  ],
+  [
+   "poporodni vlozky",
+   "telo"
+  ],
+  [
+   "deodorant bez hliníku",
+   "telo"
+  ],
+  [
+   "praci prasek",
+   "prani"
+  ],
+  [
+   "mopy",
+   "uklid"
+  ],
+  [
+   "rotační mop",
+   "uklid"
+  ],
+  [
+   "sul do mycky",
+   "nadobi"
+  ],
+  [
+   "hydratační šampon",
+   "vlasy"
+  ],
+  [
+   "ricinový olej na vlasy",
+   "vlasy"
+  ],
+  [
+   "péče o vlasy",
+   "vlasy"
+  ],
+  [
+   "barvící maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "kokosový olej na vlasy",
+   "vlasy"
+  ],
+  [
+   "mastné vlasy",
+   "vlasy"
+  ],
+  [
+   "šedá barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "měděná barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "barevné spreje na vlasy",
+   "vlasy"
+  ],
+  [
+   "bělící zubní pasta",
+   "usta"
+  ],
+  [
+   "zubní pasta pro psy",
+   "usta"
+  ],
+  [
+   "ustni voda",
+   "usta"
+  ],
+  [
+   "zubni nit",
+   "usta"
+  ],
+  [
+   "dámské parfémy top 10",
+   "makeup"
+  ],
+  [
+   "mini parfémy",
+   "makeup"
+  ],
+  [
+   "parfém na vlasy",
+   "vlasy"
+  ],
+  [
+   "nd granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "granule pro koťata",
+   "mazlicci"
+  ],
+  [
+   "kapsičky pro koťata",
+   "mazlicci"
+  ],
+  [
+   "písek pro kočky",
+   "mazlicci"
+  ],
+  [
+   "kočičí granule",
+   "mazlicci"
+  ],
+  [
+   "pleťová maska",
+   "plet"
+  ],
+  [
+   "krém na akné",
+   "plet"
+  ],
+  [
+   "oční krém",
+   "plet"
+  ],
+  [
+   "opalovaci krem pro miminko",
+   "deti"
+  ],
+  [
+   "nejlepší korejská kosmetika",
+   "plet"
+  ],
+  [
+   "opalovací krém pro děti",
+   "deti"
+  ],
+  [
+   "krém po opalování",
+   "plet"
+  ],
+  [
+   "opalovaci krem pro miminka",
+   "plet"
+  ],
+  [
+   "bavlněné pleny",
+   "deti"
+  ],
+  [
+   "bavlněné plenky",
+   "deti"
+  ],
+  [
+   "tekuté mýdlo",
+   "telo"
+  ],
+  [
+   "menstruační kalhotky pro dívky",
+   "telo"
+  ],
+  [
+   "antiperspirant bez hliníku",
+   "telo"
+  ],
+  [
+   "strojek na holení",
+   "telo"
+  ],
+  [
+   "deodorant pro děti",
+   "deti"
+  ],
+  [
+   "tuhý deodorant",
+   "telo"
+  ],
+  [
+   "nejlepsi holici strojek pro muze",
+   "telo"
+  ],
+  [
+   "prací gel akce",
+   "prani"
+  ],
+  [
+   "prací gel pro miminka",
+   "prani"
+  ],
+  [
+   "mop s rozprašovačem",
+   "uklid"
+  ],
+  [
+   "toaletní papír v akci",
+   "uklid"
+  ],
+  [
+   "nejlepší mop na podlahu",
+   "uklid"
+  ],
+  [
+   "elektrický mop na podlahu",
+   "uklid"
+  ],
+  [
+   "pytle na suť",
+   "uklid"
+  ],
+  [
+   "elektrický mop na vytírání",
+   "uklid"
+  ],
+  [
+   "pytle na sut",
+   "uklid"
+  ],
+  [
+   "čistící šampon",
+   "vlasy"
+  ],
+  [
+   "profesionální barvy na vlasy",
+   "vlasy"
+  ],
+  [
+   "tuhý šampon",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "zelená barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "hydratační maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "tónovací maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "tónovací šampon",
+   "vlasy"
+  ],
+  [
+   "barevná maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "barvící šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "barva na vlasy blond",
+   "vlasy"
+  ],
+  [
+   "barevné masky na vlasy",
+   "vlasy"
+  ],
+  [
+   "tonovaci masky na vlasy",
+   "vlasy"
+  ],
+  [
+   "černá barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "sonické kartáčky",
+   "usta"
+  ],
+  [
+   "elektricky zubni kartacek",
+   "usta"
+  ],
+  [
+   "mezizubni kartacky",
+   "usta"
+  ],
+  [
+   "mezizubni kartacek",
+   "usta"
+  ],
+  [
+   "zubní pasta bez fluoridu",
+   "usta"
+  ],
+  [
+   "zubní pasty bez fluoru",
+   "usta"
+  ],
+  [
+   "toaletní voda",
+   "makeup"
+  ],
+  [
+   "parfem si",
+   "makeup"
+  ],
+  [
+   "nejlepší řasenka",
+   "makeup"
+  ],
+  [
+   "lr kosmetika",
+   "plet"
+  ],
+  [
+   "nejlepší pánské parfémy",
+   "makeup"
+  ],
+  [
+   "si parfém",
+   "makeup"
+  ],
+  [
+   "nejlepší parfémy pro ženy",
+   "makeup"
+  ],
+  [
+   "voděodolná řasenka",
+   "makeup"
+  ],
+  [
+   "nejlepší dámské parfémy",
+   "makeup"
+  ],
+  [
+   "uv lak na nehty",
+   "makeup"
+  ],
+  [
+   "lak na nehty proti plísni",
+   "makeup"
+  ],
+  [
+   "parfémovaná voda",
+   "makeup"
+  ],
+  [
+   "pánské vůně",
+   "makeup"
+  ],
+  [
+   "tuhý parfém",
+   "makeup"
+  ],
+  [
+   "vanilkový parfém",
+   "makeup"
+  ],
+  [
+   "uv laky na nehty",
+   "makeup"
+  ],
+  [
+   "nejlepší granule pro psy test",
+   "mazlicci"
+  ],
+  [
+   "granule pro psa",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "sušené maso pro psy",
+   "mazlicci"
+  ],
+  [
+   "pamlsky pro štěňata",
+   "mazlicci"
+  ],
+  [
+   "tráva pro kočky",
+   "mazlicci"
+  ],
+  [
+   "pamlsky pro kočky",
+   "mazlicci"
+  ],
+  [
+   "nejlepší krémy pro zralou pleť",
+   "plet"
+  ],
+  [
+   "krem na akne",
+   "plet"
+  ],
+  [
+   "krém na opalování",
+   "plet"
+  ],
+  [
+   "krém na kruhy pod očima",
+   "plet"
+  ],
+  [
+   "opalovací krém pro miminka",
+   "plet"
+  ],
+  [
+   "minerální opalovací krém",
+   "plet"
+  ],
+  [
+   "norkový krém",
+   "plet"
+  ],
+  [
+   "hydratacni krem",
+   "plet"
+  ],
+  [
+   "jílová maska",
+   "plet"
+  ],
+  [
+   "odlicovaci tampony",
+   "plet"
+  ],
+  [
+   "odlicovaci tamponky",
+   "plet"
+  ],
+  [
+   "kojenecké mléko",
+   "deti"
+  ],
+  [
+   "pleny v akci",
+   "deti"
+  ],
+  [
+   "mušelínové pleny",
+   "deti"
+  ],
+  [
+   "plenky pro novorozence",
+   "deti"
+  ],
+  [
+   "nocni plenky",
+   "deti"
+  ],
+  [
+   "pleny pro novorozence",
+   "deti"
+  ],
+  [
+   "noční plenky",
+   "deti"
+  ],
+  [
+   "plenkové kalhotky pro dospělé",
+   "telo"
+  ],
+  [
+   "dámský holicí strojek na intimní partie",
+   "telo"
+  ],
+  [
+   "intimní gel pro muže",
+   "telo"
+  ],
+  [
+   "holící strojek na intimní partie",
+   "telo"
+  ],
+  [
+   "slipové vložky",
+   "telo"
+  ],
+  [
+   "odstraňovač skvrn",
+   "prani"
+  ],
+  [
+   "cistic odpadu",
+   "uklid"
+  ],
+  [
+   "gel do myčky",
+   "nadobi"
+  ],
+  [
+   "přírodní šampon",
+   "vlasy"
+  ],
+  [
+   "šampon proti padání vlasů",
+   "vlasy"
+  ],
+  [
+   "rust vlasu",
+   "vlasy"
+  ],
+  [
+   "přírodní šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "sampon na vsi",
+   "vlasy"
+  ],
+  [
+   "šampon bez sulfátů",
+   "vlasy"
+  ],
+  [
+   "stahovač barvy na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na barvené vlasy",
+   "vlasy"
+  ],
+  [
+   "bílá barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "barevný šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "barvy na vlasy pro děti",
+   "deti"
+  ],
+  [
+   "nejlepší elektrický kartáček",
+   "usta"
+  ],
+  [
+   "nejlepší sonický kartáček",
+   "usta"
+  ],
+  [
+   "sonicky detsky kartacek",
+   "usta"
+  ],
+  [
+   "zubni kartacek",
+   "usta"
+  ],
+  [
+   "elektrický mezizubní kartáček",
+   "usta"
+  ],
+  [
+   "parfém s feromony",
+   "makeup"
+  ],
+  [
+   "levne vune",
+   "makeup"
+  ],
+  [
+   "dárkové kazety",
+   "makeup"
+  ],
+  [
+   "lak proti kousání nehtů",
+   "makeup"
+  ],
+  [
+   "slupovací lak na nehty",
+   "makeup"
+  ],
+  [
+   "nejlepsi makeup",
+   "makeup"
+  ],
+  [
+   "mineralni make up",
+   "makeup"
+  ],
+  [
+   "dětský lak na nehty",
+   "deti"
+  ],
+  [
+   "nejlepší pánský parfém",
+   "makeup"
+  ],
+  [
+   "dlouhotrvající rtěnka",
+   "makeup"
+  ],
+  [
+   "parfém libre",
+   "makeup"
+  ],
+  [
+   "minerální pudr",
+   "makeup"
+  ],
+  [
+   "zpevňující lak na nehty",
+   "makeup"
+  ],
+  [
+   "hnědá řasenka",
+   "makeup"
+  ],
+  [
+   "orientální parfémy",
+   "makeup"
+  ],
+  [
+   "rtenka",
+   "makeup"
+  ],
+  [
+   "podestýlka pro kočky",
+   "mazlicci"
+  ],
+  [
+   "kvalitní granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "kapsicky v akci",
+   "mazlicci"
+  ],
+  [
+   "nejlepsi granule pro psa",
+   "mazlicci"
+  ],
+  [
+   "kapsicky pro kocky",
+   "mazlicci"
+  ],
+  [
+   "krmivo",
+   "mazlicci"
+  ],
+  [
+   "pleťový krém",
+   "plet"
+  ],
+  [
+   "kyselina hyaluronová sérum",
+   "plet"
+  ],
+  [
+   "opalovací krém na obličej",
+   "plet"
+  ],
+  [
+   "přírodní opalovací krém",
+   "plet"
+  ],
+  [
+   "ocni krem",
+   "plet"
+  ],
+  [
+   "krém na suchou pleť",
+   "plet"
+  ],
+  [
+   "nejlepší krém na pigmentové skvrny",
+   "plet"
+  ],
+  [
+   "plenky pro seniory",
+   "telo"
+  ],
+  [
+   "pleny pro miminko",
+   "deti"
+  ],
+  [
+   "planžetový holicí strojek",
+   "telo"
+  ],
+  [
+   "tampony s aplikátorem",
+   "telo"
+  ],
+  [
+   "přírodní antiperspirant",
+   "telo"
+  ],
+  [
+   "nejlepší holící strojek",
+   "telo"
+  ],
+  [
+   "holicí strojek na intimní partie pro ženy",
+   "telo"
+  ],
+  [
+   "chladící vložky po porodu",
+   "telo"
+  ],
+  [
+   "menstruační vložky",
+   "telo"
+  ],
+  [
+   "aviváž akce",
+   "prani"
+  ],
+  [
+   "kapsle na prani",
+   "prani"
+  ],
+  [
+   "nejlepší prací gel",
+   "prani"
+  ],
+  [
+   "wc blok",
+   "uklid"
+  ],
+  [
+   "mop na vytirani",
+   "uklid"
+  ],
+  [
+   "toaletni papir akce",
+   "uklid"
+  ],
+  [
+   "automatický osvěžovač vzduchu",
+   "uklid"
+  ],
+  [
+   "osvěžovač vzduchu do bytu",
+   "uklid"
+  ],
+  [
+   "eko tablety do myčky",
+   "nadobi"
+  ],
+  [
+   "kapsle do mycky",
+   "nadobi"
+  ],
+  [
+   "výživa na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na suchou pokožku hlavy",
+   "vlasy"
+  ],
+  [
+   "šampon na vypadávání vlasů",
+   "vlasy"
+  ],
+  [
+   "šampon na suché vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na blond vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na vousy",
+   "vlasy"
+  ],
+  [
+   "čistící šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "březový šampon",
+   "vlasy"
+  ],
+  [
+   "sampon na lupy",
+   "vlasy"
+  ],
+  [
+   "odstraňovač barvy na vlasy",
+   "vlasy"
+  ],
+  [
+   "stříbrná barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "sampon keratin",
+   "vlasy"
+  ],
+  [
+   "fialová maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "keratin šampon",
+   "vlasy"
+  ],
+  [
+   "nejlepší elektrický zubní kartáček",
+   "usta"
+  ],
+  [
+   "elektricke kartacky",
+   "usta"
+  ],
+  [
+   "kartáček na zuby pro psy",
+   "usta"
+  ],
+  [
+   "ústní voda na zánět dásní",
+   "usta"
+  ],
+  [
+   "elektrický kartacek",
+   "usta"
+  ],
+  [
+   "kartáček na jazyk",
+   "usta"
+  ],
+  [
+   "nejlepší parfémy pro muže",
+   "makeup"
+  ],
+  [
+   "opi lak na nehty",
+   "makeup"
+  ],
+  [
+   "řasenka na obočí",
+   "makeup"
+  ],
+  [
+   "řasenky",
+   "makeup"
+  ],
+  [
+   "přírodní lak na nehty",
+   "makeup"
+  ],
+  [
+   "bandi parfem",
+   "makeup"
+  ],
+  [
+   "lak na nehty pro děti",
+   "deti"
+  ],
+  [
+   "nejlepší parfémy",
+   "makeup"
+  ],
+  [
+   "nejlepší arabské parfémy",
+   "makeup"
+  ],
+  [
+   "pánské parfémy top 10",
+   "makeup"
+  ],
+  [
+   "parfém tom ford",
+   "makeup"
+  ],
+  [
+   "silikátové stelivo",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy 15 kg",
+   "mazlicci"
+  ],
+  [
+   "granule pro kastrované psy",
+   "mazlicci"
+  ],
+  [
+   "kockolit akce",
+   "mazlicci"
+  ],
+  [
+   "granule pro kočky 10 kg",
+   "mazlicci"
+  ],
+  [
+   "granule pro kočky 20 kg",
+   "mazlicci"
+  ],
+  [
+   "granule pro kastrované kočky",
+   "mazlicci"
+  ],
+  [
+   "granule k9",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro kočky",
+   "mazlicci"
+  ],
+  [
+   "pleťové sérum",
+   "plet"
+  ],
+  [
+   "krém s kyselinou hyaluronovou",
+   "plet"
+  ],
+  [
+   "opalovací krém do solária",
+   "plet"
+  ],
+  [
+   "nejlepší opalovací krém",
+   "plet"
+  ],
+  [
+   "maska na černé tečky",
+   "plet"
+  ],
+  [
+   "micelarni voda",
+   "plet"
+  ],
+  [
+   "nejlepší opalovací krém k moři",
+   "plet"
+  ],
+  [
+   "nejlepší spf na obličej",
+   "plet"
+  ],
+  [
+   "plenkové kalhotky",
+   "deti"
+  ],
+  [
+   "plenky na noc",
+   "deti"
+  ],
+  [
+   "plenkové kalhotky pro seniory",
+   "telo"
+  ],
+  [
+   "plenky akce",
+   "deti"
+  ],
+  [
+   "intimní hygiena",
+   "telo"
+  ],
+  [
+   "nejlepší menstruační kalhotky",
+   "telo"
+  ],
+  [
+   "holicí strojek pro muže na vousy",
+   "telo"
+  ],
+  [
+   "porodnicke vlozky",
+   "telo"
+  ],
+  [
+   "prsni vlozky",
+   "telo"
+  ],
+  [
+   "elektrický holicí strojek na intimní partie pro ženy",
+   "telo"
+  ],
+  [
+   "holící strojek na žiletky",
+   "telo"
+  ],
+  [
+   "porodnické vložky",
+   "telo"
+  ],
+  [
+   "deodorant na intimní partie",
+   "telo"
+  ],
+  [
+   "sprchový gel pro atopiky",
+   "telo"
+  ],
+  [
+   "vložky po porodu",
+   "telo"
+  ],
+  [
+   "deodorant mini",
+   "telo"
+  ],
+  [
+   "strojek na intimní partie",
+   "telo"
+  ],
+  [
+   "gel na praní",
+   "prani"
+  ],
+  [
+   "aviváže",
+   "prani"
+  ],
+  [
+   "kapsle na praní akce",
+   "prani"
+  ],
+  [
+   "prací gel na vlnu",
+   "prani"
+  ],
+  [
+   "praci prasek pro miminko",
+   "deti"
+  ],
+  [
+   "praci gel na vlnu",
+   "prani"
+  ],
+  [
+   "aviváž v akci",
+   "prani"
+  ],
+  [
+   "univerzální čistič",
+   "uklid"
+  ],
+  [
+   "mop na okna",
+   "uklid"
+  ],
+  [
+   "papirove uterky",
+   "uklid"
+  ],
+  [
+   "profesionální mop na vytírání",
+   "uklid"
+  ],
+  [
+   "akce toaletní papír",
+   "uklid"
+  ],
+  [
+   "nejlepší mop",
+   "uklid"
+  ],
+  [
+   "osvěžovač vzduchu do auta",
+   "uklid"
+  ],
+  [
+   "bambusový toaletní papír",
+   "uklid"
+  ],
+  [
+   "automatický čistič oken",
+   "uklid"
+  ],
+  [
+   "odpadkové pytle",
+   "uklid"
+  ],
+  [
+   "kapsle do myčky akce",
+   "nadobi"
+  ],
+  [
+   "ekologické tablety do myčky",
+   "nadobi"
+  ],
+  [
+   "kapsle do pračky",
+   "prani"
+  ],
+  [
+   "cistic mycky",
+   "nadobi"
+  ],
+  [
+   "šampon na lupenku",
+   "vlasy"
+  ],
+  [
+   "šampony",
+   "vlasy"
+  ],
+  [
+   "kvalitní šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "hloubkově čistící šampon",
+   "vlasy"
+  ],
+  [
+   "prirodni sampon",
+   "vlasy"
+  ],
+  [
+   "šampon na šedivé vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na jemné vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na vlnité vlasy",
+   "vlasy"
+  ],
+  [
+   "nejlepší maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon proti svědění hlavy",
+   "vlasy"
+  ],
+  [
+   "proteinová maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "moje vlasy",
+   "vlasy"
+  ],
+  [
+   "nejlepší olej na vlasy",
+   "vlasy"
+  ],
+  [
+   "modrý šampon",
+   "vlasy"
+  ],
+  [
+   "barvící šampon",
+   "vlasy"
+  ],
+  [
+   "dětský šampon",
+   "deti"
+  ],
+  [
+   "šampon s kofeinem",
+   "vlasy"
+  ],
+  [
+   "sampon proti vsim",
+   "vlasy"
+  ],
+  [
+   "barvici maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na objem vlasů",
+   "vlasy"
+  ],
+  [
+   "dentální nit",
+   "usta"
+  ],
+  [
+   "dětský zubní kartáček",
+   "usta"
+  ],
+  [
+   "detsky elektricky kartacek",
+   "usta"
+  ],
+  [
+   "zubní pasta na citlivé zuby",
+   "usta"
+  ],
+  [
+   "nejlepší zubní pasta",
+   "usta"
+  ],
+  [
+   "kartáček na zuby elektrický",
+   "usta"
+  ],
+  [
+   "dětský elektrický kartáček od 3 let",
+   "usta"
+  ],
+  [
+   "kartacek pro miminko",
+   "usta"
+  ],
+  [
+   "kartáček na rovnátka",
+   "usta"
+  ],
+  [
+   "jednosvazkový kartáček pro děti",
+   "usta"
+  ],
+  [
+   "ústní voda bez alkoholu",
+   "usta"
+  ],
+  [
+   "jednosvazkovy kartacek",
+   "usta"
+  ],
+  [
+   "parfém si",
+   "makeup"
+  ],
+  [
+   "pánské parfémy s dlouhou výdrží",
+   "makeup"
+  ],
+  [
+   "řasenka na vlasy",
+   "vlasy"
+  ],
+  [
+   "výprodej parfémů",
+   "makeup"
+  ],
+  [
+   "jo malone parfém",
+   "makeup"
+  ],
+  [
+   "kryci makeup",
+   "makeup"
+  ],
+  [
+   "řasenka pro citlivé oči",
+   "makeup"
+  ],
+  [
+   "nejlepší make up",
+   "makeup"
+  ],
+  [
+   "minerální makeup",
+   "makeup"
+  ],
+  [
+   "odstřiky parfémů",
+   "makeup"
+  ],
+  [
+   "parfem pro muze",
+   "makeup"
+  ],
+  [
+   "bílá řasenka",
+   "makeup"
+  ],
+  [
+   "nejlepší kloubní výživa pro psy",
+   "mazlicci"
+  ],
+  [
+   "konzervy pro kočky akce",
+   "mazlicci"
+  ],
+  [
+   "silikátové stelivo pro kočky",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro štěňata",
+   "mazlicci"
+  ],
+  [
+   "granule nd pro psy",
+   "mazlicci"
+  ],
+  [
+   "stelivo pro kocky",
+   "mazlicci"
+  ],
+  [
+   "kočičí stelivo",
+   "mazlicci"
+  ],
+  [
+   "kvalitní granule pro kočky",
+   "mazlicci"
+  ],
+  [
+   "psí pamlsky",
+   "mazlicci"
+  ],
+  [
+   "stelivo",
+   "mazlicci"
+  ],
+  [
+   "kočkolit akce",
+   "mazlicci"
+  ],
+  [
+   "spot on pro kočky",
+   "mazlicci"
+  ],
+  [
+   "odličovací tampony",
+   "plet"
+  ],
+  [
+   "sérum s kyselinou hyaluronovou",
+   "plet"
+  ],
+  [
+   "spf krém na obličej",
+   "plet"
+  ],
+  [
+   "pleťové masky",
+   "plet"
+  ],
+  [
+   "krem s spf",
+   "plet"
+  ],
+  [
+   "sérum na pigmentové skvrny",
+   "plet"
+  ],
+  [
+   "opalovaci krem 50",
+   "plet"
+  ],
+  [
+   "detsky opalovaci krem",
+   "deti"
+  ],
+  [
+   "odličovací voda",
+   "plet"
+  ],
+  [
+   "hydratační maska na obličej",
+   "plet"
+  ],
+  [
+   "korejská kosmetika na akné",
+   "plet"
+  ],
+  [
+   "krem na suchou kuzi",
+   "plet"
+  ],
+  [
+   "jilova maska",
+   "plet"
+  ],
+  [
+   "korejská kosmetika sada",
+   "plet"
+  ],
+  [
+   "eko pleny",
+   "deti"
+  ],
+  [
+   "vlhcene ubrousky pro miminko",
+   "deti"
+  ],
+  [
+   "jednorázové pleny",
+   "deti"
+  ],
+  [
+   "kalhotkove plenky",
+   "deti"
+  ],
+  [
+   "ekologické pleny",
+   "deti"
+  ],
+  [
+   "dívčí menstruační kalhotky",
+   "telo"
+  ],
+  [
+   "deodorant na koule",
+   "telo"
+  ],
+  [
+   "holici strojky",
+   "telo"
+  ],
+  [
+   "intimní hygiena pro muže",
+   "telo"
+  ],
+  [
+   "elektricky holici strojek pansky",
+   "telo"
+  ],
+  [
+   "just deodorant",
+   "telo"
+  ],
+  [
+   "sprchové gely",
+   "telo"
+  ],
+  [
+   "přírodní sprchový gel",
+   "telo"
+  ],
+  [
+   "strojek na holení hlavy",
+   "telo"
+  ],
+  [
+   "elektrický holicí strojek pánský",
+   "telo"
+  ],
+  [
+   "nejlepší inkontinenční vložky",
+   "telo"
+  ],
+  [
+   "deodorant proti pocení",
+   "telo"
+  ],
+  [
+   "inkontinenční vložky pro muže",
+   "telo"
+  ],
+  [
+   "kamenec deodorant",
+   "telo"
+  ],
+  [
+   "antiperspirant proti nadměrnému pocení",
+   "telo"
+  ],
+  [
+   "detsky praci gel",
+   "deti"
+  ],
+  [
+   "nejlepší aviváž",
+   "prani"
+  ],
+  [
+   "čistič wc",
+   "uklid"
+  ],
+  [
+   "pytle na odpad 120l",
+   "uklid"
+  ],
+  [
+   "vytírací mop",
+   "uklid"
+  ],
+  [
+   "nejlepší čistič odpadů",
+   "uklid"
+  ],
+  [
+   "mop na vytírání podlahy",
+   "uklid"
+  ],
+  [
+   "vlhčený toaletní papír s dubovou kůrou",
+   "uklid"
+  ],
+  [
+   "osvěžovače vzduchu",
+   "uklid"
+  ],
+  [
+   "toaletni papir v akci",
+   "uklid"
+  ],
+  [
+   "tablety do pračky",
+   "prani"
+  ],
+  [
+   "tablety do myčky v akci",
+   "nadobi"
+  ],
+  [
+   "čištění myčky",
+   "nadobi"
+  ],
+  [
+   "mycí prostředek na nádobí",
+   "nadobi"
+  ],
+  [
+   "mycí prostředky na nádobí",
+   "nadobi"
+  ],
+  [
+   "alterna šampon",
+   "vlasy"
+  ],
+  [
+   "vlasy na prodloužení",
+   "vlasy"
+  ],
+  [
+   "šampon pro růst vlasů",
+   "vlasy"
+  ],
+  [
+   "přírodní barvy na vlasy",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampon na růst vlasů",
+   "vlasy"
+  ],
+  [
+   "maska na suché vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon s keratinem",
+   "vlasy"
+  ],
+  [
+   "sampon na rust vlasu",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampony na vlasy",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampon na mastné vlasy",
+   "vlasy"
+  ],
+  [
+   "tónovací šampon na šedivé vlasy",
+   "vlasy"
+  ],
+  [
+   "cistici sampon",
+   "vlasy"
+  ],
+  [
+   "šampon na svědivou pokožku hlavy",
+   "vlasy"
+  ],
+  [
+   "šampon na melírované vlasy",
+   "vlasy"
+  ],
+  [
+   "kvalitní barvy na vlasy",
+   "vlasy"
+  ],
+  [
+   "nature box šampon",
+   "vlasy"
+  ],
+  [
+   "barva na vlasy ve spreji",
+   "vlasy"
+  ],
+  [
+   "olej do vlasů",
+   "vlasy"
+  ],
+  [
+   "hydratační šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "barva na vlasy profesionální",
+   "vlasy"
+  ],
+  [
+   "nejlepší suchý šampon",
+   "vlasy"
+  ],
+  [
+   "sonický kartáček na zuby",
+   "usta"
+  ],
+  [
+   "zubní elektrický kartáček",
+   "usta"
+  ],
+  [
+   "elektrický kartáček pro děti od 7 let",
+   "usta"
+  ],
+  [
+   "zubni pasta belici",
+   "usta"
+  ],
+  [
+   "enzymatická pasta pro psy",
+   "mazlicci"
+  ],
+  [
+   "elektricky kartacek na zuby",
+   "usta"
+  ],
+  [
+   "dětský elektrický kartáček od 6 let",
+   "usta"
+  ],
+  [
+   "detsky kartacek",
+   "usta"
+  ],
+  [
+   "sonicky kartacek na zuby",
+   "usta"
+  ],
+  [
+   "nejlepší ústní voda",
+   "usta"
+  ],
+  [
+   "si parfem",
+   "makeup"
+  ],
+  [
+   "značkové parfémy levně",
+   "makeup"
+  ],
+  [
+   "dárkové kazety pro ženy",
+   "makeup"
+  ],
+  [
+   "modrá řasenka",
+   "makeup"
+  ],
+  [
+   "razítka na nehty",
+   "makeup"
+  ],
+  [
+   "parfémy v akci",
+   "makeup"
+  ],
+  [
+   "parfémy s feromony pro ženy",
+   "makeup"
+  ],
+  [
+   "parfémy pařížská",
+   "makeup"
+  ],
+  [
+   "transparentní pudr",
+   "makeup"
+  ],
+  [
+   "přírodní makeup",
+   "makeup"
+  ],
+  [
+   "rozjasnujici makeup",
+   "makeup"
+  ],
+  [
+   "nejlepší parfém pro muže",
+   "makeup"
+  ],
+  [
+   "olejové parfémy",
+   "makeup"
+  ],
+  [
+   "silikagel stelivo",
+   "mazlicci"
+  ],
+  [
+   "dietní granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "kvalitni granule pro psa",
+   "mazlicci"
+  ],
+  [
+   "kočičí kapsičky akce",
+   "mazlicci"
+  ],
+  [
+   "žrádlo pro kočky",
+   "mazlicci"
+  ],
+  [
+   "kočičí kapsičky",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro kočky test",
+   "mazlicci"
+  ],
+  [
+   "krmivo pro koťata",
+   "mazlicci"
+  ],
+  [
+   "kapsičky pro kočky v akci",
+   "mazlicci"
+  ],
+  [
+   "gastrointestinal granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "konzervy pro koťata",
+   "mazlicci"
+  ],
+  [
+   "absorpční podložky pro psy",
+   "mazlicci"
+  ],
+  [
+   "sérum na pleť",
+   "plet"
+  ],
+  [
+   "denní krém s spf",
+   "plet"
+  ],
+  [
+   "denní krém s spf 50",
+   "plet"
+  ],
+  [
+   "krém na jizvy po akné",
+   "plet"
+  ],
+  [
+   "krém na mastnou pleť",
+   "plet"
+  ],
+  [
+   "opalovaci kremy",
+   "plet"
+  ],
+  [
+   "nejlepší krém na suchou a citlivou pleť",
+   "plet"
+  ],
+  [
+   "pletova maska",
+   "plet"
+  ],
+  [
+   "krem na opalovani",
+   "plet"
+  ],
+  [
+   "opalovací krém 30",
+   "plet"
+  ],
+  [
+   "krém na opalování 50",
+   "plet"
+  ],
+  [
+   "krem na plet",
+   "plet"
+  ],
+  [
+   "opalovací krém pro rychlé zhnědnutí",
+   "plet"
+  ],
+  [
+   "opalovací krém ve spreji",
+   "plet"
+  ],
+  [
+   "krem na citlivou plet",
+   "plet"
+  ],
+  [
+   "slupovací maska",
+   "plet"
+  ],
+  [
+   "denni krem s spf",
+   "plet"
+  ],
+  [
+   "led masky na oblicej",
+   "plet"
+  ],
+  [
+   "dětské látkové pleny",
+   "deti"
+  ],
+  [
+   "plenky 1",
+   "deti"
+  ],
+  [
+   "dětské pleny látkové",
+   "deti"
+  ],
+  [
+   "kojenecke mleko",
+   "deti"
+  ],
+  [
+   "látkové vložky",
+   "telo"
+  ],
+  [
+   "tekuté mýdlo 5l",
+   "telo"
+  ],
+  [
+   "damsky holici strojek",
+   "telo"
+  ],
+  [
+   "holící strojek na vlasy a vousy",
+   "vlasy"
+  ],
+  [
+   "intimni sprska",
+   "telo"
+  ],
+  [
+   "parfémované tělové mléko",
+   "makeup"
+  ],
+  [
+   "tělové mléko na suchou pokožku",
+   "telo"
+  ],
+  [
+   "deodorant na nohy",
+   "telo"
+  ],
+  [
+   "olejový sprchový gel",
+   "telo"
+  ],
+  [
+   "avivaze",
+   "prani"
+  ],
+  [
+   "dóza na prací prášek",
+   "prani"
+  ],
+  [
+   "eko prací prášek",
+   "prani"
+  ],
+  [
+   "gel na praní akce",
+   "prani"
+  ],
+  [
+   "prací gely",
+   "prani"
+  ],
+  [
+   "nejlepší prací prášek",
+   "prani"
+  ],
+  [
+   "odstranovac skvrn",
+   "prani"
+  ],
+  [
+   "prací prášek v akci",
+   "prani"
+  ],
+  [
+   "černý toaletní papír",
+   "uklid"
+  ],
+  [
+   "ždímací mop",
+   "uklid"
+  ],
+  [
+   "stříkací mop",
+   "uklid"
+  ],
+  [
+   "pytle na odpad 240 l",
+   "uklid"
+  ],
+  [
+   "dvoukomorový mop",
+   "uklid"
+  ],
+  [
+   "kuchyňské utěrky papírové",
+   "uklid"
+  ],
+  [
+   "elektrický osvěžovač vzduchu",
+   "uklid"
+  ],
+  [
+   "pytle do koše",
+   "uklid"
+  ],
+  [
+   "strikaci mop",
+   "uklid"
+  ],
+  [
+   "mop elektrický",
+   "uklid"
+  ],
+  [
+   "lestidlo do mycky",
+   "nadobi"
+  ],
+  [
+   "proti padání vlasů",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampon proti vypadávání vlasů",
+   "vlasy"
+  ],
+  [
+   "dehtový šampon",
+   "vlasy"
+  ],
+  [
+   "šampon na podporu růstu vlasů",
+   "vlasy"
+  ],
+  [
+   "kofeinovy šampon",
+   "vlasy"
+  ],
+  [
+   "blue cap šampon",
+   "vlasy"
+  ],
+  [
+   "keratinová maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "profesionální šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "růžová maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "tonovací šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "šetrná barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "barvici maska",
+   "plet"
+  ],
+  [
+   "šampon pro mastné vlasy",
+   "vlasy"
+  ],
+  [
+   "barva na vlasy pro muže",
+   "vlasy"
+  ],
+  [
+   "koprivovy sampon",
+   "vlasy"
+  ],
+  [
+   "šampon na objem",
+   "vlasy"
+  ],
+  [
+   "oranžová barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "olivový olej na vlasy",
+   "vlasy"
+  ],
+  [
+   "sonický elektrický kartáček",
+   "usta"
+  ],
+  [
+   "elektricky detsky kartacek",
+   "usta"
+  ],
+  [
+   "dětský zubní kartáček elektrický",
+   "usta"
+  ],
+  [
+   "detsky sonicky kartacek",
+   "usta"
+  ],
+  [
+   "dětský elektrický zubní kartáček",
+   "usta"
+  ],
+  [
+   "dětský elektrický kartáček od 2 let",
+   "usta"
+  ],
+  [
+   "nano kartáček na zuby",
+   "usta"
+  ],
+  [
+   "gum mezizubní kartáčky",
+   "usta"
+  ],
+  [
+   "belici zubni pasta",
+   "usta"
+  ],
+  [
+   "dětský kartáček",
+   "usta"
+  ],
+  [
+   "kartáček elektrický",
+   "usta"
+  ],
+  [
+   "přírodní zubní pasta",
+   "usta"
+  ],
+  [
+   "elektricky zubni kartacek detsky",
+   "usta"
+  ],
+  [
+   "ustni voda na dasne",
+   "usta"
+  ],
+  [
+   "dětská zubní pasta",
+   "usta"
+  ],
+  [
+   "mezizubní kartáčky pro děti",
+   "usta"
+  ],
+  [
+   "dětské zubní kartáčky elektrické",
+   "usta"
+  ],
+  [
+   "feromony parfém",
+   "makeup"
+  ],
+  [
+   "nejlepsi rasenka",
+   "makeup"
+  ],
+  [
+   "dárkové kazety pro muže",
+   "makeup"
+  ],
+  [
+   "luxusní parfémy",
+   "makeup"
+  ],
+  [
+   "tekuté oční stíny",
+   "makeup"
+  ],
+  [
+   "lilite parfémy",
+   "makeup"
+  ],
+  [
+   "esence parfémy",
+   "makeup"
+  ],
+  [
+   "české parfémy",
+   "makeup"
+  ],
+  [
+   "granule lisované za studena",
+   "mazlicci"
+  ],
+  [
+   "za studena lisované granule",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy akce 15 kg",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy seniory",
+   "telo"
+  ],
+  [
+   "kočičí granule akce",
+   "mazlicci"
+  ],
+  [
+   "měkké granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy 15 kg akce",
+   "mazlicci"
+  ],
+  [
+   "kvalitní krmivo pro kočky",
+   "mazlicci"
+  ],
+  [
+   "zimní oblečky pro malé psy",
+   "mazlicci"
+  ],
+  [
+   "nejlepší stelivo pro kočky",
+   "mazlicci"
+  ],
+  [
+   "doplňky stravy pro psy",
+   "mazlicci"
+  ],
+  [
+   "nejlepší kapsičky pro kočky",
+   "mazlicci"
+  ],
+  [
+   "krmivo pes",
+   "mazlicci"
+  ],
+  [
+   "tofu stelivo",
+   "mazlicci"
+  ],
+  [
+   "nejlepší oční krém",
+   "plet"
+  ],
+  [
+   "luxusní korejská kosmetika",
+   "plet"
+  ],
+  [
+   "detsky opalovaci krem 50",
+   "deti"
+  ],
+  [
+   "nejlepší hydratační krém",
+   "plet"
+  ],
+  [
+   "minerální opalovací krém pro děti",
+   "deti"
+  ],
+  [
+   "nejlepší krém na kruhy pod očima",
+   "plet"
+  ],
+  [
+   "pletove serum",
+   "plet"
+  ],
+  [
+   "opalovaci krem pro deti",
+   "deti"
+  ],
+  [
+   "pleťový krém spf 50",
+   "plet"
+  ],
+  [
+   "denni krem",
+   "plet"
+  ],
+  [
+   "nejlepší opalovací krém pro děti",
+   "deti"
+  ],
+  [
+   "hydratační sérum na pleť",
+   "plet"
+  ],
+  [
+   "opalovací krémy akce",
+   "plet"
+  ],
+  [
+   "slupovací maska na černé tečky",
+   "plet"
+  ],
+  [
+   "nejlepší krém na akné",
+   "plet"
+  ],
+  [
+   "masky na oblicej",
+   "plet"
+  ],
+  [
+   "spf pro miminka",
+   "plet"
+  ],
+  [
+   "nejlepší maska na černé tečky",
+   "plet"
+  ],
+  [
+   "opalovací krém akce",
+   "plet"
+  ],
+  [
+   "dětská kaše",
+   "deti"
+  ],
+  [
+   "dětské pleny akce",
+   "deti"
+  ],
+  [
+   "separační pleny",
+   "deti"
+  ],
+  [
+   "plenky levne",
+   "deti"
+  ],
+  [
+   "koupaci plenky",
+   "deti"
+  ],
+  [
+   "dětské vlhčené ubrousky",
+   "deti"
+  ],
+  [
+   "pleny 1",
+   "deti"
+  ],
+  [
+   "dětská pěna do koupele",
+   "deti"
+  ],
+  [
+   "plenky 0",
+   "deti"
+  ],
+  [
+   "přístroj na přípravu kojeneckého mléka",
+   "deti"
+  ],
+  [
+   "plenky na plavání",
+   "deti"
+  ],
+  [
+   "bavlněné pleny pro miminka",
+   "deti"
+  ],
+  [
+   "bio deodorant",
+   "telo"
+  ],
+  [
+   "jednorázové menstruační kalhotky",
+   "telo"
+  ],
+  [
+   "anionové vložky",
+   "telo"
+  ],
+  [
+   "nejlepší holicí strojek na intimní místa",
+   "telo"
+  ],
+  [
+   "holicí strojek elektrický",
+   "telo"
+  ],
+  [
+   "deodorant bez parfemace",
+   "makeup"
+  ],
+  [
+   "pánské inkontinenční vložky",
+   "telo"
+  ],
+  [
+   "německé prací prášky",
+   "prani"
+  ],
+  [
+   "prací prášek na peří",
+   "prani"
+  ],
+  [
+   "nádoba na prací prášek",
+   "prani"
+  ],
+  [
+   "německý prací prášek",
+   "prani"
+  ],
+  [
+   "prací prášek na bílé prádlo",
+   "prani"
+  ],
+  [
+   "praci prasek akce",
+   "prani"
+  ],
+  [
+   "prasek na bile pradlo",
+   "prani"
+  ],
+  [
+   "prací gel na černé prádlo",
+   "prani"
+  ],
+  [
+   "prací gel na bílé prádlo",
+   "prani"
+  ],
+  [
+   "nejlepší odstraňovač skvrn",
+   "prani"
+  ],
+  [
+   "aviváž pro miminka",
+   "prani"
+  ],
+  [
+   "práci gel v akci",
+   "prani"
+  ],
+  [
+   "mop na vytírání akce",
+   "uklid"
+  ],
+  [
+   "profesionální mop",
+   "uklid"
+  ],
+  [
+   "vytírání podlahy",
+   "uklid"
+  ],
+  [
+   "mop s kýblem",
+   "uklid"
+  ],
+  [
+   "zasobnik na uterky",
+   "uklid"
+  ],
+  [
+   "náhradní mop",
+   "uklid"
+  ],
+  [
+   "pytle na azbest",
+   "uklid"
+  ],
+  [
+   "akce tablety do myčky",
+   "nadobi"
+  ],
+  [
+   "čistič do myčky",
+   "nadobi"
+  ],
+  [
+   "cisteni pracky tabletou do mycky",
+   "nadobi"
+  ],
+  [
+   "čištění pračky tabletami do myčky",
+   "nadobi"
+  ],
+  [
+   "nastřelení vlasů cena",
+   "vlasy"
+  ],
+  [
+   "šampon na prodloužené vlasy",
+   "vlasy"
+  ],
+  [
+   "sampon proti svedeni",
+   "vlasy"
+  ],
+  [
+   "šampon pro kudrnaté vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na padání vlasů",
+   "vlasy"
+  ],
+  [
+   "aloe vera na vlasy",
+   "vlasy"
+  ],
+  [
+   "jojobový olej na vlasy",
+   "vlasy"
+  ],
+  [
+   "bio barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "zesvětlující šampon",
+   "vlasy"
+  ],
+  [
+   "suchý olej na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon pro muže",
+   "vlasy"
+  ],
+  [
+   "nejlepší profesionální barvy na vlasy",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampon na šedivé vlasy",
+   "vlasy"
+  ],
+  [
+   "chi šampon",
+   "vlasy"
+  ],
+  [
+   "olej na suché vlasy",
+   "vlasy"
+  ],
+  [
+   "fialový šampon na blond vlasy",
+   "vlasy"
+  ],
+  [
+   "smývatelné barvy na vlasy",
+   "vlasy"
+  ],
+  [
+   "nano kartáček",
+   "usta"
+  ],
+  [
+   "elektrický zubní kartáček pro děti",
+   "usta"
+  ],
+  [
+   "sonicky kartacek pro deti",
+   "usta"
+  ],
+  [
+   "ultrazvukový kartáček",
+   "usta"
+  ],
+  [
+   "ústní voda pro psy",
+   "usta"
+  ],
+  [
+   "el kartacek",
+   "usta"
+  ],
+  [
+   "nejlepší zubní kartáček",
+   "usta"
+  ],
+  [
+   "pasta na zubní kámen",
+   "usta"
+  ],
+  [
+   "elektrický kartáček pro děti od 10 let",
+   "usta"
+  ],
+  [
+   "stojánek na mezizubní kartáčky",
+   "usta"
+  ],
+  [
+   "antibakteriální ústní voda",
+   "usta"
+  ],
+  [
+   "zubní pasta splat",
+   "usta"
+  ],
+  [
+   "zubni kartacek detsky",
+   "usta"
+  ],
+  [
+   "splat zubní pasta",
+   "usta"
+  ],
+  [
+   "cestovní kartáček",
+   "usta"
+  ],
+  [
+   "protizánětlivá ústní voda",
+   "usta"
+  ],
+  [
+   "parfemy akce",
+   "makeup"
+  ],
+  [
+   "levné vůně",
+   "makeup"
+  ],
+  [
+   "luxusní parfémy pro muže",
+   "makeup"
+  ],
+  [
+   "hydratační makeup",
+   "makeup"
+  ],
+  [
+   "donna karan parfém",
+   "makeup"
+  ],
+  [
+   "krémové oční stíny",
+   "makeup"
+  ],
+  [
+   "dárková kazeta pro ženy",
+   "makeup"
+  ],
+  [
+   "pansky parfem boss",
+   "makeup"
+  ],
+  [
+   "boss parfém pánský",
+   "makeup"
+  ],
+  [
+   "dárková kazeta pro muže",
+   "makeup"
+  ],
+  [
+   "vůně pro muže",
+   "makeup"
+  ],
+  [
+   "nejlepší voděodolná řasenka",
+   "makeup"
+  ],
+  [
+   "kokosový parfém",
+   "makeup"
+  ],
+  [
+   "psí granule akce",
+   "mazlicci"
+  ],
+  [
+   "české granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "granule za studena lisované",
+   "mazlicci"
+  ],
+  [
+   "bozita pro kočky",
+   "mazlicci"
+  ],
+  [
+   "granule pro malé psy",
+   "mazlicci"
+  ],
+  [
+   "silikonové stelivo pro kočky",
+   "mazlicci"
+  ],
+  [
+   "granule pro psi",
+   "mazlicci"
+  ],
+  [
+   "krmivo pro kočky akce",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy s vysokým obsahem masa",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy v akci",
+   "mazlicci"
+  ],
+  [
+   "elektrický plot pro psy",
+   "mazlicci"
+  ],
+  [
+   "holistické granule",
+   "mazlicci"
+  ],
+  [
+   "granule pro kočky s vysokým obsahem masa",
+   "mazlicci"
+  ],
+  [
+   "nejlepší krmivo pro kočky",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro koťata",
+   "mazlicci"
+  ],
+  [
+   "krmivo pro štěňata",
+   "mazlicci"
+  ],
+  [
+   "granule pro suchozemské želvy",
+   "mazlicci"
+  ],
+  [
+   "dietní granule pro kočky",
+   "mazlicci"
+  ],
+  [
+   "kvalitní kapsičky pro kočky",
+   "mazlicci"
+  ],
+  [
+   "kapsicky pro kotata",
+   "mazlicci"
+  ],
+  [
+   "krém s spf",
+   "plet"
+  ],
+  [
+   "krém na obličej spf 50",
+   "plet"
+  ],
+  [
+   "nejlepší oční krém pro zralou pleť",
+   "plet"
+  ],
+  [
+   "krém proti akné",
+   "plet"
+  ],
+  [
+   "denní krém",
+   "plet"
+  ],
+  [
+   "nejlepší krém na suchou pleť",
+   "plet"
+  ],
+  [
+   "přírodní opalovací krém pro děti",
+   "deti"
+  ],
+  [
+   "serum na plet",
+   "plet"
+  ],
+  [
+   "krém na oční okolí",
+   "plet"
+  ],
+  [
+   "pletovy krem",
+   "plet"
+  ],
+  [
+   "opalovací krém pro atopiky",
+   "plet"
+  ],
+  [
+   "krem na oci",
+   "plet"
+  ],
+  [
+   "krém spf 50",
+   "plet"
+  ],
+  [
+   "opalovací krém v tyčince",
+   "plet"
+  ],
+  [
+   "krem na opalovani pro deti",
+   "deti"
+  ],
+  [
+   "spf krém",
+   "plet"
+  ],
+  [
+   "opalovaci krem na oblicej",
+   "plet"
+  ],
+  [
+   "nejlepší krém na opalování",
+   "plet"
+  ],
+  [
+   "dehydratovana plet",
+   "plet"
+  ],
+  [
+   "opalovací krém spf 50",
+   "plet"
+  ],
+  [
+   "opalovací krém 50 pro děti",
+   "deti"
+  ],
+  [
+   "nejlepší krém na suchou pokožku",
+   "plet"
+  ],
+  [
+   "masticka na akne",
+   "plet"
+  ],
+  [
+   "norkovy krem",
+   "plet"
+  ],
+  [
+   "opalovací krem",
+   "plet"
+  ],
+  [
+   "nuance micelární voda",
+   "plet"
+  ],
+  [
+   "hydratacni maska",
+   "plet"
+  ],
+  [
+   "plenky 4",
+   "deti"
+  ],
+  [
+   "plenky pants",
+   "deti"
+  ],
+  [
+   "kalhotkové plenky",
+   "deti"
+  ],
+  [
+   "plenky 2",
+   "deti"
+  ],
+  [
+   "latkove plenky",
+   "deti"
+  ],
+  [
+   "pleny látkové",
+   "deti"
+  ],
+  [
+   "bavlněné látkové pleny",
+   "deti"
+  ],
+  [
+   "natahovací plenkové kalhotky pro seniory",
+   "telo"
+  ],
+  [
+   "latkove pleny pro deti",
+   "deti"
+  ],
+  [
+   "nejlepší plenky",
+   "deti"
+  ],
+  [
+   "elektrický holicí strojek pro muže",
+   "telo"
+  ],
+  [
+   "holící strojek dámský",
+   "telo"
+  ],
+  [
+   "prsní vložky",
+   "telo"
+  ],
+  [
+   "pansky holici strojek",
+   "telo"
+  ],
+  [
+   "holící strojek na tělo",
+   "telo"
+  ],
+  [
+   "vložky proti pocení",
+   "telo"
+  ],
+  [
+   "sprchový gel po opalování",
+   "plet"
+  ],
+  [
+   "dámský elektrický holící strojek",
+   "telo"
+  ],
+  [
+   "nejlepší strojek na holení hlavy",
+   "telo"
+  ],
+  [
+   "prací prášek pro miminka",
+   "prani"
+  ],
+  [
+   "prací gel sensitive",
+   "prani"
+  ],
+  [
+   "prací prostředek na vlnu",
+   "prani"
+  ],
+  [
+   "nejlepší prací prášek na bílé prádlo",
+   "prani"
+  ],
+  [
+   "prací gel s lanolinem",
+   "prani"
+  ],
+  [
+   "prací gel na peří",
+   "prani"
+  ],
+  [
+   "praci prasek v akci",
+   "prani"
+  ],
+  [
+   "octová aviváž",
+   "prani"
+  ],
+  [
+   "mop bona",
+   "uklid"
+  ],
+  [
+   "pytle na tříděný odpad",
+   "uklid"
+  ],
+  [
+   "nejlepší vůně do bytu",
+   "makeup"
+  ],
+  [
+   "tlakový čistič odpadů",
+   "uklid"
+  ],
+  [
+   "třásňový mop",
+   "uklid"
+  ],
+  [
+   "rotační mop na podlahu",
+   "uklid"
+  ],
+  [
+   "přírodní osvěžovač vzduchu",
+   "uklid"
+  ],
+  [
+   "cisteni mycky",
+   "nadobi"
+  ],
+  [
+   "odstraňovač barvy z vlasů",
+   "vlasy"
+  ],
+  [
+   "skin cap šampon",
+   "vlasy"
+  ],
+  [
+   "šampon bez silikonu",
+   "vlasy"
+  ],
+  [
+   "šampon na poškozené vlasy",
+   "vlasy"
+  ],
+  [
+   "pivní šampon",
+   "vlasy"
+  ],
+  [
+   "bio šampon",
+   "vlasy"
+  ],
+  [
+   "maska na blond vlasy",
+   "vlasy"
+  ],
+  [
+   "olej na růst vlasů",
+   "vlasy"
+  ],
+  [
+   "přírodní lak na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon pro blond vlasy",
+   "vlasy"
+  ],
+  [
+   "mastné lupy",
+   "vlasy"
+  ],
+  [
+   "přírodní šampon na mastné vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon pro objem vlasů",
+   "vlasy"
+  ],
+  [
+   "šampon na citlivou pokožku hlavy",
+   "vlasy"
+  ],
+  [
+   "sampon na citlivou pokozku",
+   "vlasy"
+  ],
+  [
+   "barva na vlasy pro alergiky",
+   "vlasy"
+  ],
+  [
+   "sampon proti padani vlasu",
+   "vlasy"
+  ],
+  [
+   "přírodní maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "tuhý kondicionér",
+   "vlasy"
+  ],
+  [
+   "proteinový šampon",
+   "vlasy"
+  ],
+  [
+   "sonicky zubni kartacek",
+   "usta"
+  ],
+  [
+   "sonický kartáček dětský",
+   "usta"
+  ],
+  [
+   "sonický kartáček pro děti od 7 let",
+   "usta"
+  ],
+  [
+   "mezizubní kartáčky gum",
+   "usta"
+  ],
+  [
+   "dětský kartáček na zuby",
+   "usta"
+  ],
+  [
+   "zubni kartacky",
+   "usta"
+  ],
+  [
+   "zubní kartáček pro psy",
+   "usta"
+  ],
+  [
+   "nejlepší zubní pasta pro psy",
+   "usta"
+  ],
+  [
+   "kartáček na první zoubky",
+   "usta"
+  ],
+  [
+   "nejlepší kartáček na zuby",
+   "usta"
+  ],
+  [
+   "ultrazvukový zubní kartáček",
+   "usta"
+  ],
+  [
+   "kartáček na zuby pro miminka",
+   "usta"
+  ],
+  [
+   "nejlepší bělicí zubní pasta",
+   "usta"
+  ],
+  [
+   "ústní voda pro děti",
+   "usta"
+  ],
+  [
+   "zubní pasta na paradentozu",
+   "usta"
+  ],
+  [
+   "zubní pasta na bělení zubů",
+   "usta"
+  ],
+  [
+   "kartacky",
+   "usta"
+  ],
+  [
+   "držák na mezizubní kartáčky",
+   "usta"
+  ],
+  [
+   "pouzdro na mezizubní kartáčky",
+   "usta"
+  ],
+  [
+   "ustni voda proti zanetu",
+   "usta"
+  ],
+  [
+   "dárková kazeta",
+   "makeup"
+  ],
+  [
+   "primer make up",
+   "makeup"
+  ],
+  [
+   "nejlepší levné parfémy",
+   "makeup"
+  ],
+  [
+   "pravé parfémy",
+   "makeup"
+  ],
+  [
+   "levne parfemy cz",
+   "makeup"
+  ],
+  [
+   "náhražky parfémů",
+   "makeup"
+  ],
+  [
+   "pánské parfémy v akci",
+   "makeup"
+  ],
+  [
+   "eternity parfém",
+   "makeup"
+  ],
+  [
+   "parfem s feromony",
+   "makeup"
+  ],
+  [
+   "uv gel lak na nehty",
+   "makeup"
+  ],
+  [
+   "nejlepší řasenky",
+   "makeup"
+  ],
+  [
+   "benefit řasenka",
+   "makeup"
+  ],
+  [
+   "kosmetika ordinary",
+   "plet"
+  ],
+  [
+   "lak na nehty opi",
+   "makeup"
+  ],
+  [
+   "prirodni make up",
+   "makeup"
+  ],
+  [
+   "luxusní dámské parfémy",
+   "makeup"
+  ],
+  [
+   "přírodní řasenka",
+   "makeup"
+  ],
+  [
+   "essens parfem",
+   "makeup"
+  ],
+  [
+   "gelový lak na nehty bez uv lampy",
+   "makeup"
+  ],
+  [
+   "makeup na akne",
+   "makeup"
+  ],
+  [
+   "přírodní parfémy pro ženy",
+   "makeup"
+  ],
+  [
+   "pudrová vůně",
+   "makeup"
+  ],
+  [
+   "granule pro psy 20 kg",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro alergické psy",
+   "mazlicci"
+  ],
+  [
+   "silikátový kočkolit",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy bez obilovin",
+   "mazlicci"
+  ],
+  [
+   "granule bez obilovin",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro psy seniory",
+   "telo"
+  ],
+  [
+   "granule pro psy 20 kg akce",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule lisované za studena",
+   "mazlicci"
+  ],
+  [
+   "kvalitní krmivo pro psy",
+   "mazlicci"
+  ],
+  [
+   "stelivo pro kočky silikátové",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy akce 10 kg",
+   "mazlicci"
+  ],
+  [
+   "granule pro velké psy",
+   "mazlicci"
+  ],
+  [
+   "měkké granule pro psy seniory",
+   "telo"
+  ],
+  [
+   "psí žrádlo",
+   "mazlicci"
+  ],
+  [
+   "granule senior",
+   "telo"
+  ],
+  [
+   "granule pro štěňata malých plemen",
+   "mazlicci"
+  ],
+  [
+   "granule akce",
+   "mazlicci"
+  ],
+  [
+   "granule pro jezevčíka",
+   "mazlicci"
+  ],
+  [
+   "renal granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "granule v akci",
+   "mazlicci"
+  ],
+  [
+   "poloměkké granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "kapsičky pro koťata akce",
+   "mazlicci"
+  ],
+  [
+   "pratelné podložky pro psy",
+   "mazlicci"
+  ],
+  [
+   "kapsičky pro kočky velké balení",
+   "mazlicci"
+  ],
+  [
+   "nejlepší konzervy pro psy",
+   "mazlicci"
+  ],
+  [
+   "dietní pamlsky pro psy",
+   "mazlicci"
+  ],
+  [
+   "akce kapsičky pro kočky",
+   "mazlicci"
+  ],
+  [
+   "psí granule v akci",
+   "mazlicci"
+  ],
+  [
+   "sušené pamlsky pro psy",
+   "mazlicci"
+  ],
+  [
+   "nejlepší pamlsky pro psy",
+   "mazlicci"
+  ],
+  [
+   "gastrointestinal granule pro kočky",
+   "mazlicci"
+  ],
+  [
+   "nejlepší krém s kyselinou hyaluronovou",
+   "plet"
+  ],
+  [
+   "pletove masky",
+   "plet"
+  ],
+  [
+   "profesionální korejská kosmetika",
+   "plet"
+  ],
+  [
+   "bio opalovací krém",
+   "plet"
+  ],
+  [
+   "denni krem spf",
+   "plet"
+  ],
+  [
+   "bělící krém na pigmentové skvrny",
+   "plet"
+  ],
+  [
+   "krém na problematickou pleť",
+   "plet"
+  ],
+  [
+   "krém na oční víčka",
+   "plet"
+  ],
+  [
+   "nejlepší pleťový krém pro muže",
+   "plet"
+  ],
+  [
+   "spf 30 na obličej",
+   "plet"
+  ],
+  [
+   "opalovací krém spf 100",
+   "plet"
+  ],
+  [
+   "nejlepší sérum na pleť",
+   "plet"
+  ],
+  [
+   "hydratační krém pro muže",
+   "plet"
+  ],
+  [
+   "opalovací krém pro děti 50",
+   "deti"
+  ],
+  [
+   "opalovací krém 50 akce",
+   "plet"
+  ],
+  [
+   "rozjasňující krém",
+   "plet"
+  ],
+  [
+   "pleťová maska pro muže",
+   "plet"
+  ],
+  [
+   "krém na váčky pod očima",
+   "plet"
+  ],
+  [
+   "krém pod oči",
+   "plet"
+  ],
+  [
+   "hydratační maska",
+   "plet"
+  ],
+  [
+   "krém na pleť",
+   "plet"
+  ],
+  [
+   "krém pro zralou pleť",
+   "plet"
+  ],
+  [
+   "korejská vlasová kosmetika",
+   "vlasy"
+  ],
+  [
+   "opalovací krém 50 na obličej",
+   "plet"
+  ],
+  [
+   "pleťové masky na obličej",
+   "plet"
+  ],
+  [
+   "pleny 4",
+   "deti"
+  ],
+  [
+   "plenky 5",
+   "deti"
+  ],
+  [
+   "plenky 3",
+   "deti"
+  ],
+  [
+   "dětské šminky",
+   "deti"
+  ],
+  [
+   "plenkové kalhotky 4",
+   "deti"
+  ],
+  [
+   "nejlepší kojenecké mléko",
+   "deti"
+  ],
+  [
+   "vlhčené ubrousky na podlahu",
+   "uklid"
+  ],
+  [
+   "plenkove kalhotky 4",
+   "deti"
+  ],
+  [
+   "bambusové plenky",
+   "deti"
+  ],
+  [
+   "menstruační kalhotky akce",
+   "telo"
+  ],
+  [
+   "menstruační kalhotky dívčí",
+   "telo"
+  ],
+  [
+   "depilacni strojek damsky",
+   "telo"
+  ],
+  [
+   "pánský strojek na vlasy",
+   "vlasy"
+  ],
+  [
+   "dámský holicí strojek na obličej",
+   "plet"
+  ],
+  [
+   "probioticke tampony",
+   "telo"
+  ],
+  [
+   "bio tampony",
+   "telo"
+  ],
+  [
+   "dámský holicí strojek elektrický",
+   "telo"
+  ],
+  [
+   "intimní mýdlo pro muže",
+   "telo"
+  ],
+  [
+   "prací prášek pro atopiky",
+   "prani"
+  ],
+  [
+   "prací prášek 10 kg",
+   "prani"
+  ],
+  [
+   "prací prášek pro alergiky",
+   "prani"
+  ],
+  [
+   "dětský prací prášek",
+   "deti"
+  ],
+  [
+   "ekologický prací gel",
+   "prani"
+  ],
+  [
+   "avivaž",
+   "prani"
+  ],
+  [
+   "německý prášek na praní",
+   "prani"
+  ],
+  [
+   "eko praci gel",
+   "prani"
+  ],
+  [
+   "gel na černé prádlo",
+   "prani"
+  ],
+  [
+   "avivaz akce",
+   "prani"
+  ],
+  [
+   "bona mop spray",
+   "uklid"
+  ],
+  [
+   "papírové utěrky role",
+   "uklid"
+  ],
+  [
+   "úklidový mop",
+   "uklid"
+  ],
+  [
+   "průmyslové utěrky",
+   "uklid"
+  ],
+  [
+   "papírové utěrky do zásobníku",
+   "uklid"
+  ],
+  [
+   "nejlepší mop na vinylovou podlahu",
+   "uklid"
+  ],
+  [
+   "krystal olejový osvěžovač",
+   "uklid"
+  ],
+  [
+   "set mop",
+   "uklid"
+  ],
+  [
+   "mop na plovoucí podlahu",
+   "uklid"
+  ],
+  [
+   "silný čistič odpadů",
+   "uklid"
+  ],
+  [
+   "houbový mop",
+   "uklid"
+  ],
+  [
+   "mop akce",
+   "uklid"
+  ],
+  [
+   "mopy na vytírání podlahy",
+   "uklid"
+  ],
+  [
+   "pytle na odpad 60l",
+   "uklid"
+  ],
+  [
+   "mop rotační",
+   "uklid"
+  ],
+  [
+   "mop na vlhčené ubrousky",
+   "uklid"
+  ],
+  [
+   "levné tablety do myčky",
+   "nadobi"
+  ],
+  [
+   "prostředek na mytí nádobí",
+   "nadobi"
+  ],
+  [
+   "sůl do pračky",
+   "prani"
+  ],
+  [
+   "tableta do myčky do pračky",
+   "nadobi"
+  ],
+  [
+   "w5 tablety do myčky",
+   "nadobi"
+  ],
+  [
+   "šampon proti vypadávání vlasů pro ženy",
+   "vlasy"
+  ],
+  [
+   "profesionální šampony",
+   "vlasy"
+  ],
+  [
+   "kofeinový šampon pro ženy",
+   "vlasy"
+  ],
+  [
+   "keratin maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na suché lupy",
+   "vlasy"
+  ],
+  [
+   "krásné vlasy",
+   "vlasy"
+  ],
+  [
+   "vlasový olej",
+   "vlasy"
+  ],
+  [
+   "nejlepší přírodní barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "nejlepší hydratační šampon",
+   "vlasy"
+  ],
+  [
+   "sampon proti vypadavani vlasu",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampon na vši",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampon na suché vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon s proteinem",
+   "vlasy"
+  ],
+  [
+   "černý šampon na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na mastné lupy",
+   "vlasy"
+  ],
+  [
+   "kondicionér pro muže",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampon na suchou pokožku hlavy",
+   "vlasy"
+  ],
+  [
+   "maska na poškozené vlasy",
+   "vlasy"
+  ],
+  [
+   "heřmánkový šampon",
+   "vlasy"
+  ],
+  [
+   "bezoplachová maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na rychle se mastící vlasy",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampon na barvené vlasy",
+   "vlasy"
+  ],
+  [
+   "sampon pro rust vlasu",
+   "vlasy"
+  ],
+  [
+   "kondicionér na suché vlasy",
+   "vlasy"
+  ],
+  [
+   "zubní pasta pro děti",
+   "usta"
+  ],
+  [
+   "nanoo kartáček",
+   "usta"
+  ],
+  [
+   "dávkovač zubní pasty",
+   "usta"
+  ],
+  [
+   "dětské zubní kartáčky",
+   "usta"
+  ],
+  [
+   "sonický kartáček pro děti od 1 roku",
+   "usta"
+  ],
+  [
+   "sonický kartáček pro děti od 10 let",
+   "usta"
+  ],
+  [
+   "zubní kartáček pro děti",
+   "usta"
+  ],
+  [
+   "elektrické zubní kartáčky pro děti",
+   "usta"
+  ],
+  [
+   "sonický kartáček pro děti od 3 let",
+   "usta"
+  ],
+  [
+   "zubní pasta na odstranění zubního kamene",
+   "usta"
+  ],
+  [
+   "zubni kartacek pro miminko",
+   "usta"
+  ],
+  [
+   "zubní pasta s propolisem",
+   "usta"
+  ],
+  [
+   "kartacek pro psa",
+   "usta"
+  ],
+  [
+   "zubní pasta na zánět dásní",
+   "usta"
+  ],
+  [
+   "kartáček pro psy",
+   "usta"
+  ],
+  [
+   "nejlepší zubní pasta na zubní kámen",
+   "usta"
+  ],
+  [
+   "jednosvazkový zubní kartáček",
+   "usta"
+  ],
+  [
+   "narciso parfem",
+   "makeup"
+  ],
+  [
+   "prodlužující řasenka",
+   "makeup"
+  ],
+  [
+   "feromonové parfémy",
+   "makeup"
+  ],
+  [
+   "pudrovy make up",
+   "makeup"
+  ],
+  [
+   "essence cz parfemy",
+   "makeup"
+  ],
+  [
+   "milani kosmetika",
+   "plet"
+  ],
+  [
+   "jasmínový parfém",
+   "makeup"
+  ],
+  [
+   "bio lak na nehty",
+   "makeup"
+  ],
+  [
+   "luxusní parfémy pro ženy",
+   "makeup"
+  ],
+  [
+   "dlouhotrvající lak na nehty",
+   "makeup"
+  ],
+  [
+   "levandulový parfém",
+   "makeup"
+  ],
+  [
+   "levné granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "levné granule pro kočky",
+   "mazlicci"
+  ],
+  [
+   "jehněčí granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "kloubní výživa pro staré psy",
+   "mazlicci"
+  ],
+  [
+   "granule pro alergické psy",
+   "mazlicci"
+  ],
+  [
+   "granule s vysokým obsahem masa",
+   "mazlicci"
+  ],
+  [
+   "granule pro staré psy",
+   "mazlicci"
+  ],
+  [
+   "žrádlo pro psy",
+   "mazlicci"
+  ],
+  [
+   "granule pro seniory",
+   "telo"
+  ],
+  [
+   "měkké granule pro staré psy",
+   "mazlicci"
+  ],
+  [
+   "kvalitní granule pro kočky bez obilovin",
+   "mazlicci"
+  ],
+  [
+   "granule pro kočky bez obilovin",
+   "mazlicci"
+  ],
+  [
+   "pamlsky pro psy s ledvinovou dietou",
+   "mazlicci"
+  ],
+  [
+   "za studena lisované granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "granule pro koťata akce",
+   "mazlicci"
+  ],
+  [
+   "renal kapsičky pro kočky",
+   "mazlicci"
+  ],
+  [
+   "nejlepší konzervy pro kočky",
+   "mazlicci"
+  ],
+  [
+   "kapsičky pro kastrované kočky",
+   "mazlicci"
+  ],
+  [
+   "kvalitní české granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "davkovac krmiva kocka",
+   "mazlicci"
+  ],
+  [
+   "výcvikové pamlsky pro psy",
+   "mazlicci"
+  ],
+  [
+   "barel na granule 15 kg",
+   "mazlicci"
+  ],
+  [
+   "korejská kosmetika eshop",
+   "plet"
+  ],
+  [
+   "odličovací tampony pratelné",
+   "plet"
+  ],
+  [
+   "ocni krem vrasky",
+   "plet"
+  ],
+  [
+   "zásobník na odličovací tampony",
+   "plet"
+  ],
+  [
+   "dětský opalovací krém",
+   "deti"
+  ],
+  [
+   "hydratační krém s spf",
+   "plet"
+  ],
+  [
+   "nejlepší hyaluronové sérum",
+   "plet"
+  ],
+  [
+   "pleťový krém s spf",
+   "plet"
+  ],
+  [
+   "krem na oblicej spf",
+   "plet"
+  ],
+  [
+   "opalovací krém na sluneční alergii",
+   "plet"
+  ],
+  [
+   "krém na vrásky 60",
+   "plet"
+  ],
+  [
+   "oční krém na vrásky",
+   "plet"
+  ],
+  [
+   "opalovací krém na obličej spf 50",
+   "plet"
+  ],
+  [
+   "krém po opalování pro děti",
+   "deti"
+  ],
+  [
+   "krém na obličej s spf",
+   "plet"
+  ],
+  [
+   "hydratační krém na akné",
+   "plet"
+  ],
+  [
+   "non toxic opalovací krém",
+   "plet"
+  ],
+  [
+   "prirodni opalovaci krem",
+   "plet"
+  ],
+  [
+   "nejlepší opalovací krém na obličej",
+   "plet"
+  ],
+  [
+   "krém s spf 50",
+   "plet"
+  ],
+  [
+   "bb krém pro zralou pleť",
+   "plet"
+  ],
+  [
+   "micelární voda na akné",
+   "plet"
+  ],
+  [
+   "krém na rozšířené póry",
+   "plet"
+  ],
+  [
+   "opalovací krém 50 ve spreji",
+   "plet"
+  ],
+  [
+   "oční krém na kruhy pod očima",
+   "plet"
+  ],
+  [
+   "opalovaci krem 100ml",
+   "plet"
+  ],
+  [
+   "nejlepší pleťové masky",
+   "plet"
+  ],
+  [
+   "opalovaci krem 30",
+   "plet"
+  ],
+  [
+   "krém na černé tečky",
+   "plet"
+  ],
+  [
+   "nejlepší noční krém",
+   "plet"
+  ],
+  [
+   "krem na kruhy pod ocima",
+   "plet"
+  ],
+  [
+   "korejská dekorativní kosmetika",
+   "plet"
+  ],
+  [
+   "opalovací krém 100 ml",
+   "plet"
+  ],
+  [
+   "opalovací krém bez chemie",
+   "plet"
+  ],
+  [
+   "denni krem spf 50",
+   "plet"
+  ],
+  [
+   "sérum s kyselinou salicylovou",
+   "plet"
+  ],
+  [
+   "opalovací krém 100",
+   "plet"
+  ],
+  [
+   "černá slupovací maska",
+   "plet"
+  ],
+  [
+   "nejlepší tónovací krém",
+   "plet"
+  ],
+  [
+   "nejlepší micelární voda",
+   "plet"
+  ],
+  [
+   "nejlepší krém po opalování",
+   "plet"
+  ],
+  [
+   "mineralni opalovaci krem",
+   "plet"
+  ],
+  [
+   "muselinova plenka",
+   "deti"
+  ],
+  [
+   "pleny 5",
+   "deti"
+  ],
+  [
+   "plenkové kalhotky pro seniory xl",
+   "telo"
+  ],
+  [
+   "mušelínové plenky",
+   "deti"
+  ],
+  [
+   "detske kase",
+   "deti"
+  ],
+  [
+   "pleny 3",
+   "deti"
+  ],
+  [
+   "plavkove plenky",
+   "deti"
+  ],
+  [
+   "dětské pleny bavlněné",
+   "deti"
+  ],
+  [
+   "dětské bavlněné pleny",
+   "deti"
+  ],
+  [
+   "akce pleny",
+   "deti"
+  ],
+  [
+   "ohrivac prikrmu",
+   "deti"
+  ],
+  [
+   "pleny 2",
+   "deti"
+  ],
+  [
+   "pánské plenkové kalhotky",
+   "deti"
+  ],
+  [
+   "dětská kosmetika pro novorozence",
+   "deti"
+  ],
+  [
+   "dětská kosmetika sada",
+   "deti"
+  ],
+  [
+   "kojenecká mléka",
+   "deti"
+  ],
+  [
+   "detske bavlnene plenky",
+   "deti"
+  ],
+  [
+   "deodorant boss",
+   "telo"
+  ],
+  [
+   "dorina menstruační kalhotky",
+   "telo"
+  ],
+  [
+   "latkove vlozky",
+   "telo"
+  ],
+  [
+   "menstruační kalhotky pro silnou menstruaci",
+   "telo"
+  ],
+  [
+   "maluna menstruační kalhotky",
+   "telo"
+  ],
+  [
+   "ponio deodorant",
+   "telo"
+  ],
+  [
+   "pánská intimní hygiena",
+   "telo"
+  ],
+  [
+   "elektrický strojek na vlasy",
+   "vlasy"
+  ],
+  [
+   "menstruační kalhotky na noc",
+   "telo"
+  ],
+  [
+   "sprchový gel 5l",
+   "telo"
+  ],
+  [
+   "bylinné vložky",
+   "telo"
+  ],
+  [
+   "sprchove gely",
+   "telo"
+  ],
+  [
+   "prací gel 5l",
+   "prani"
+  ],
+  [
+   "praci gel pro deti",
+   "deti"
+  ],
+  [
+   "prací gel pro atopiky",
+   "prani"
+  ],
+  [
+   "prací prostředek na funkční prádlo",
+   "prani"
+  ],
+  [
+   "tekutý prací prášek",
+   "prani"
+  ],
+  [
+   "nejlepší ekologický prací prášek",
+   "prani"
+  ],
+  [
+   "přírodní aviváž",
+   "prani"
+  ],
+  [
+   "prací prášek na vlnu",
+   "prani"
+  ],
+  [
+   "prací prostředek na vlnu s lanolinem",
+   "prani"
+  ],
+  [
+   "praci gel 5l",
+   "prani"
+  ],
+  [
+   "prací gel na merino",
+   "prani"
+  ],
+  [
+   "dětská aviváž",
+   "deti"
+  ],
+  [
+   "prášek na bílé prádlo",
+   "prani"
+  ],
+  [
+   "papírové kapesníčky",
+   "uklid"
+  ],
+  [
+   "elektrický čistič odpadů",
+   "uklid"
+  ],
+  [
+   "pytle na odpad 300l",
+   "uklid"
+  ],
+  [
+   "podlahový mop",
+   "uklid"
+  ],
+  [
+   "mop na podlahu akce",
+   "uklid"
+  ],
+  [
+   "pytle 120l",
+   "uklid"
+  ],
+  [
+   "mop na úklid",
+   "uklid"
+  ],
+  [
+   "plochy mop",
+   "uklid"
+  ],
+  [
+   "tyčový mop",
+   "uklid"
+  ],
+  [
+   "velké pytle na odpad",
+   "uklid"
+  ],
+  [
+   "mop na dřevěnou podlahu",
+   "uklid"
+  ],
+  [
+   "toaletní papír s dubovou kůrou",
+   "uklid"
+  ],
+  [
+   "mop s nádržkou na vodu",
+   "uklid"
+  ],
+  [
+   "mop na okna s teleskopickou tyčí",
+   "uklid"
+  ],
+  [
+   "kuchyňské papírové utěrky",
+   "uklid"
+  ],
+  [
+   "prostředek na nádobí",
+   "nadobi"
+  ],
+  [
+   "gel do myčky akce",
+   "nadobi"
+  ],
+  [
+   "bio tablety do myčky",
+   "nadobi"
+  ],
+  [
+   "gelové kapsle do myčky",
+   "nadobi"
+  ],
+  [
+   "čistící tablety do myčky",
+   "nadobi"
+  ],
+  [
+   "přírodní tablety do myčky",
+   "nadobi"
+  ],
+  [
+   "do mycky",
+   "nadobi"
+  ],
+  [
+   "eko tablety do mycky",
+   "nadobi"
+  ],
+  [
+   "detoxikační šampon",
+   "vlasy"
+  ],
+  [
+   "revita šampon",
+   "vlasy"
+  ],
+  [
+   "radico barva na vlasy",
+   "vlasy"
+  ],
+  [
+   "zázvorový šampon",
+   "vlasy"
+  ],
+  [
+   "ponio šampon",
+   "vlasy"
+  ],
+  [
+   "přírodní barva na šedivé vlasy",
+   "vlasy"
+  ],
+  [
+   "nejlepší výživa na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampon na zničené vlasy",
+   "vlasy"
+  ],
+  [
+   "kondicioner pro deti",
+   "deti"
+  ],
+  [
+   "šetrné barvy na vlasy",
+   "vlasy"
+  ],
+  [
+   "šampony bez silikonů",
+   "vlasy"
+  ],
+  [
+   "šampon pro vlnité vlasy",
+   "vlasy"
+  ],
+  [
+   "česnekový šampon na růst vlasů",
+   "vlasy"
+  ],
+  [
+   "šampon na mastící se vlasy",
+   "vlasy"
+  ],
+  [
+   "nejlepší šampon na kudrnaté vlasy",
+   "vlasy"
+  ],
+  [
+   "ichtyol šampon",
+   "vlasy"
+  ],
+  [
+   "tuhý šampon na mastné vlasy",
+   "vlasy"
+  ],
+  [
+   "detsky gel na vlasy",
+   "deti"
+  ],
+  [
+   "přírodní kondicionér",
+   "vlasy"
+  ],
+  [
+   "zubní kartáček sonický",
+   "usta"
+  ],
+  [
+   "elektrický zubní kartáček sonický",
+   "usta"
+  ],
+  [
+   "sonicke kartacky",
+   "usta"
+  ],
+  [
+   "dětský elektrický kartáček na zuby",
+   "usta"
+  ],
+  [
+   "ultrazvukový kartáček pro psy",
+   "usta"
+  ],
+  [
+   "kartáček na zuby sonický",
+   "usta"
+  ],
+  [
+   "elektrický kartáček sonický",
+   "usta"
+  ],
+  [
+   "dětský sonický zubní kartáček",
+   "usta"
+  ],
+  [
+   "nejlepší zubní kartáček elektrický",
+   "usta"
+  ],
+  [
+   "automatický zubní kartáček",
+   "usta"
+  ],
+  [
+   "kartáček na zuby pro děti",
+   "usta"
+  ],
+  [
+   "kartáček sonický",
+   "usta"
+  ],
+  [
+   "zubni kartacek pro psa",
+   "usta"
+  ],
+  [
+   "zubní pasta na zubní kámen",
+   "usta"
+  ],
+  [
+   "kartáček pro děti",
+   "usta"
+  ],
+  [
+   "dětský kartáček elektrický",
+   "usta"
+  ],
+  [
+   "detsky zubni kartacek",
+   "usta"
+  ],
+  [
+   "sonicky kartacek detsky",
+   "usta"
+  ],
+  [
+   "dětský zubní elektrický kartáček",
+   "usta"
+  ],
+  [
+   "nejlepší elektrický kartáček na zuby",
+   "usta"
+  ],
+  [
+   "ultrazvukový kartáček na zuby",
+   "usta"
+  ],
+  [
+   "sonický",
+   "usta"
+  ],
+  [
+   "černá zubní pasta",
+   "usta"
+  ],
+  [
+   "psí kartáček na zuby",
+   "usta"
+  ],
+  [
+   "zubní pasta proti zubnímu kameni",
+   "usta"
+  ],
+  [
+   "první kartáček na zuby",
+   "usta"
+  ],
+  [
+   "cestovní zubní kartáček",
+   "usta"
+  ],
+  [
+   "zapékací laky na nehty",
+   "makeup"
+  ],
+  [
+   "makeup rihanna",
+   "makeup"
+  ],
+  [
+   "arabské parfémy oleje",
+   "makeup"
+  ],
+  [
+   "řasenka benefit",
+   "makeup"
+  ],
+  [
+   "top pánské parfémy",
+   "makeup"
+  ],
+  [
+   "granule pro kočky 14 kg",
+   "mazlicci"
+  ],
+  [
+   "granule pro kočky 15 kg",
+   "mazlicci"
+  ],
+  [
+   "kvalitní granule pro psy bez obilovin",
+   "mazlicci"
+  ],
+  [
+   "hmyzí granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "levné kapsičky pro kočky",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro psy s nadváhou",
+   "mazlicci"
+  ],
+  [
+   "nejlepší krmivo pro psy",
+   "mazlicci"
+  ],
+  [
+   "dietní granule pro psy s nadváhou",
+   "mazlicci"
+  ],
+  [
+   "tréninkové pamlsky pro psy",
+   "mazlicci"
+  ],
+  [
+   "optima nova granule",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro kastrované psy",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro malé psy",
+   "mazlicci"
+  ],
+  [
+   "měkké granule pro kočky",
+   "mazlicci"
+  ],
+  [
+   "senior granule pro psy",
+   "telo"
+  ],
+  [
+   "granule pro psy s citlivým zažíváním",
+   "mazlicci"
+  ],
+  [
+   "plněné granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "granule pro psa akce",
+   "mazlicci"
+  ],
+  [
+   "kvalitní granule pro štěňata",
+   "mazlicci"
+  ],
+  [
+   "akce granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "granule pro sterilizované kočky",
+   "mazlicci"
+  ],
+  [
+   "kvalitní konzervy pro kočky",
+   "mazlicci"
+  ],
+  [
+   "nejlepší psí granule",
+   "mazlicci"
+  ],
+  [
+   "granule pro mainské mývalí kočky",
+   "mazlicci"
+  ],
+  [
+   "nejlepší oční krém 50",
+   "plet"
+  ],
+  [
+   "denní krém spf 50",
+   "plet"
+  ],
+  [
+   "pratelné odličovací tampony",
+   "plet"
+  ],
+  [
+   "sérum proti akné",
+   "plet"
+  ],
+  [
+   "nejlepsi ocni krem",
+   "plet"
+  ],
+  [
+   "denní krém s spf 30",
+   "plet"
+  ],
+  [
+   "přírodní opalovací krém spf 50",
+   "plet"
+  ],
+  [
+   "pleťový krém pro muže",
+   "plet"
+  ],
+  [
+   "maska na akné",
+   "plet"
+  ],
+  [
+   "krém na opalování do solária",
+   "plet"
+  ],
+  [
+   "krém na pytle pod očima",
+   "plet"
+  ],
+  [
+   "krém na vrásky kolem očí",
+   "plet"
+  ],
+  [
+   "krém na tmavé kruhy pod očima",
+   "plet"
+  ],
+  [
+   "opalovací krém pro novorozence",
+   "deti"
+  ],
+  [
+   "rozjasňující sérum",
+   "plet"
+  ],
+  [
+   "pleťová séra pro zralou pleť",
+   "plet"
+  ],
+  [
+   "tónovací krém spf 50",
+   "plet"
+  ],
+  [
+   "pleťový krém 65",
+   "plet"
+  ],
+  [
+   "extrémně suchá pleť",
+   "plet"
+  ],
+  [
+   "noční krém pro zralou pleť",
+   "plet"
+  ],
+  [
+   "nejlepší opalovací krém pro miminka",
+   "plet"
+  ],
+  [
+   "sérum na rozšířené póry",
+   "plet"
+  ],
+  [
+   "krém na opalování pro miminka",
+   "plet"
+  ],
+  [
+   "opalovací krém pro kojence",
+   "deti"
+  ],
+  [
+   "pleťová maska na akné",
+   "plet"
+  ],
+  [
+   "oční krém s retinolem",
+   "plet"
+  ],
+  [
+   "hydratacni maska na plet",
+   "plet"
+  ],
+  [
+   "hydratační krém na mastnou pleť",
+   "plet"
+  ],
+  [
+   "tuhý opalovací krém",
+   "plet"
+  ],
+  [
+   "hydratační krém pro mastnou pleť",
+   "plet"
+  ],
+  [
+   "pleťový krém na zimu",
+   "plet"
+  ],
+  [
+   "hydratační sérum s kyselinou hyaluronovou",
+   "plet"
+  ],
+  [
+   "maska na cerne tecky",
+   "plet"
+  ],
+  [
+   "kokosová maska na vlasy",
+   "vlasy"
+  ],
+  [
+   "nejlepsi opalovaci krem",
+   "plet"
+  ],
+  [
+   "královská snídaně pro pleť",
+   "plet"
+  ],
+  [
+   "krém pro citlivou pleť",
+   "plet"
+  ],
+  [
+   "maska na oční okolí",
+   "plet"
+  ],
+  [
+   "maska proti akné",
+   "plet"
+  ],
+  [
+   "opalovací krém s beta karotenem",
+   "plet"
+  ],
+  [
+   "ceske plenky",
+   "deti"
+  ],
+  [
+   "plenkove kalhotky akce",
+   "deti"
+  ],
+  [
+   "plenky pants 4",
+   "deti"
+  ],
+  [
+   "plenkové kalhotky 5",
+   "deti"
+  ],
+  [
+   "plenky 6",
+   "deti"
+  ],
+  [
+   "hadrové pleny",
+   "deti"
+  ],
+  [
+   "pleny 6",
+   "deti"
+  ],
+  [
+   "učící kalhotky pro děti",
+   "deti"
+  ],
+  [
+   "kvalitní dětské bavlněné pleny",
+   "deti"
+  ],
+  [
+   "plenkové kalhotky pro seniory l",
+   "telo"
+  ],
+  [
+   "batoleci mléko",
+   "deti"
+  ],
+  [
+   "dětská přírodní kosmetika",
+   "deti"
+  ],
+  [
+   "bavlněné pleny s potiskem",
+   "deti"
+  ],
+  [
+   "dětské mléko",
+   "deti"
+  ],
+  [
+   "plenky pro nedonošené děti",
+   "deti"
+  ],
+  [
+   "menstruační kalhotky dorina",
+   "telo"
+  ],
+  [
+   "menstruačni kalhotky",
+   "telo"
+  ],
+  [
+   "noční menstruační kalhotky",
+   "telo"
+  ],
+  [
+   "luxusní sprchové gely",
+   "telo"
+  ],
+  [
+   "profesionální holící strojek",
+   "telo"
+  ],
+  [
+   "italská aviváž",
+   "prani"
+  ],
+  [
+   "praci prasek pro deti",
+   "deti"
+  ],
+  [
+   "luxusní aviváže",
+   "prani"
+  ],
+  [
+   "eko aviváž",
+   "prani"
+  ],
+  [
+   "německé prací gely",
+   "prani"
+  ],
+  [
+   "italské prací gely",
+   "prani"
+  ],
+  [
+   "prášek na praní pro alergiky",
+   "prani"
+  ],
+  [
+   "prací prášek na montérky a pracovní oděvy",
+   "prani"
+  ],
+  [
+   "detsky praci prasek",
+   "deti"
+  ],
+  [
+   "prací prášek na péřové bundy",
+   "prani"
+  ],
+  [
+   "praci prasek na merino",
+   "prani"
+  ],
+  [
+   "nejlepsi avivaz",
+   "prani"
+  ],
+  [
+   "praci prasek na peri",
+   "prani"
+  ],
+  [
+   "akce praci gel",
+   "prani"
+  ],
+  [
+   "akce prací prášek",
+   "prani"
+  ],
+  [
+   "levný toaletní papír",
+   "uklid"
+  ],
+  [
+   "průmyslový mop",
+   "uklid"
+  ],
+  [
+   "papírové utěrky na ruce",
+   "uklid"
+  ],
+  [
+   "mop ždímací",
+   "uklid"
+  ],
+  [
+   "mop na prach",
+   "prani"
+  ],
+  [
+   "gelové tablety do myčky",
+   "nadobi"
+  ],
+  [
+   "čistící tablety do pračky",
+   "prani"
+  ],
+  [
+   "cistic do mycky",
+   "nadobi"
+  ],
+  [
+   "nejlepší čistič myčky",
+   "nadobi"
+  ],
+  [
+   "tablety do myčky eko",
+   "nadobi"
+  ],
+  [
+   "w5 čistič myčky",
+   "nadobi"
+  ],
+  [
+   "nejlepší šampon",
+   "vlasy"
+  ],
+  [
+   "šampony proti vypadávání vlasů",
+   "vlasy"
+  ],
+  [
+   "šampon na lupenku ve vlasech",
+   "vlasy"
+  ],
+  [
+   "posílení vlasů",
+   "vlasy"
+  ],
+  [
+   "maska na zničené vlasy",
+   "vlasy"
+  ],
+  [
+   "sampony proti padani vlasu",
+   "vlasy"
+  ],
+  [
+   "sampon na melir",
+   "vlasy"
+  ],
+  [
+   "nejlepší přírodní šampon",
+   "vlasy"
+  ],
+  [
+   "černý šampon na blond vlasy",
+   "vlasy"
+  ],
+  [
+   "stříbrný šampon",
+   "vlasy"
+  ],
+  [
+   "šampon na paruky",
+   "vlasy"
+  ],
+  [
+   "nano zubní kartáček",
+   "usta"
+  ],
+  [
+   "nejlepší bělící zubní pasta",
+   "usta"
+  ],
+  [
+   "magnetický zubní kartáček",
+   "usta"
+  ],
+  [
+   "zubní kartáček pro děti od 1 roku",
+   "usta"
+  ],
+  [
+   "nejlepsi zubni kartacky",
+   "usta"
+  ],
+  [
+   "zubni kartacek elektricky",
+   "usta"
+  ],
+  [
+   "sonický kartáček pro děti od 2 let",
+   "usta"
+  ],
+  [
+   "nejlepší elektrické zubní kartáčky",
+   "usta"
+  ],
+  [
+   "dětské elektrické zubní kartáčky",
+   "usta"
+  ],
+  [
+   "nejlepsi elektricky kartacek",
+   "usta"
+  ],
+  [
+   "sonický kartáček pro děti od 6 let",
+   "usta"
+  ],
+  [
+   "zubní pasta s peroxidem",
+   "usta"
+  ],
+  [
+   "sonický nebo rotační kartáček",
+   "usta"
+  ],
+  [
+   "elektrický kartáček pro děti od 1 roku",
+   "usta"
+  ],
+  [
+   "dětská zubní pasta bez fluoru",
+   "usta"
+  ],
+  [
+   "elektrický kartáček pro děti od 2 let",
+   "usta"
+  ],
+  [
+   "kartacek pro deti",
+   "usta"
+  ],
+  [
+   "mezizubní elektrický kartáček",
+   "usta"
+  ],
+  [
+   "dětská ústní voda",
+   "usta"
+  ],
+  [
+   "rotační zubní kartáček",
+   "usta"
+  ],
+  [
+   "pánský parfém s feromony",
+   "makeup"
+  ],
+  [
+   "vůně s feromony",
+   "makeup"
+  ],
+  [
+   "dámský parfém s feromony",
+   "makeup"
+  ],
+  [
+   "make up na akne",
+   "makeup"
+  ],
+  [
+   "damske parfemy top",
+   "makeup"
+  ],
+  [
+   "silikátové stelivo pro kočky akce",
+   "mazlicci"
+  ],
+  [
+   "kočkolit silikátový",
+   "mazlicci"
+  ],
+  [
+   "masové granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "granule pro buldočky",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy 30 kg",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy za studena lisované",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro psy s citlivým zažíváním",
+   "mazlicci"
+  ],
+  [
+   "granule pro aktivní psy",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy lisované za studena",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy levně",
+   "mazlicci"
+  ],
+  [
+   "bezlepkové granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "hmyzi granule pro psa",
+   "mazlicci"
+  ],
+  [
+   "holistické krmivo",
+   "mazlicci"
+  ],
+  [
+   "psi granule 15 kg",
+   "mazlicci"
+  ],
+  [
+   "krmivo pro psy akce",
+   "mazlicci"
+  ],
+  [
+   "české krmivo pro psy",
+   "mazlicci"
+  ],
+  [
+   "levne granule pro psa",
+   "mazlicci"
+  ],
+  [
+   "silikonová podestýlka pro kočky",
+   "mazlicci"
+  ],
+  [
+   "granule pro psy s nadváhou",
+   "mazlicci"
+  ],
+  [
+   "holistické granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "granule pro čivavy",
+   "mazlicci"
+  ],
+  [
+   "silikatove stelivo",
+   "mazlicci"
+  ],
+  [
+   "kvalitní psí granule",
+   "mazlicci"
+  ],
+  [
+   "silikagel pro kočky",
+   "mazlicci"
+  ],
+  [
+   "granule pro bílé psy",
+   "mazlicci"
+  ],
+  [
+   "mini granule pro psy",
+   "mazlicci"
+  ],
+  [
+   "spokojený pes granule",
+   "mazlicci"
+  ],
+  [
+   "nejlepší granule pro mainské mývalí kočky",
+   "mazlicci"
+  ]
+ ],
+ "znacky": [
+  {
+   "name": "Pampers",
+   "keywords": [
+    "pampers",
+    "pampers premium care 4",
+    "pampers pants 5",
+    "pampers premium care 3",
+    "pampers 3 premium care",
+    "pampers pants 4",
+    "pampers premium care 2",
+    "pampers premium care 1",
+    "pampers 1 premium care",
+    "pampers premium care 5",
+    "pampers premium care",
+    "pampers 4",
+    "pampers 3",
+    "pampers 2",
+    "pampers 1"
+   ],
+   "color": "#2a78d6",
+   "tokens": [
+    "pampers"
+   ],
+   "dash": false
+  },
+  {
+   "name": "Nivea",
+   "keywords": [
+    "nivea",
+    "nivea q10",
+    "nivea cellular",
+    "nivea q 10",
+    "nivea krém",
+    "nivea men",
+    "nivea soft",
+    "nivea sun",
+    "nivea sun spf 50",
+    "nivea 50 spf",
+    "nivea creme",
+    "nivea serum",
+    "nivea bb cream",
+    "nivea sun 50",
+    "nivea men sensitive"
+   ],
+   "color": "#eb6834",
+   "tokens": [
+    "nivea"
+   ],
+   "dash": false
+  },
+  {
+   "name": "Jar",
+   "keywords": [
+    "jar",
+    "jar tablety do myčky",
+    "jar platinum plus",
+    "jar platinum",
+    "jar na nádobí",
+    "tablety do myčky jar",
+    "jar kapsle do myčky",
+    "jar platinum tablety do myčky",
+    "jar tablety do myčky akce",
+    "tablety do myčky jar akce",
+    "kapsle do myčky jar",
+    "jar pěna",
+    "jar do myčky",
+    "jar platinum plus akce",
+    "tablety do myčky jar platinum akce"
+   ],
+   "color": "#1baf7a",
+   "tokens": [
+    "jar"
+   ],
+   "dash": false
+  },
+  {
+   "name": "Ariel",
+   "keywords": [
+    "ariel",
+    "ariel kapsle",
+    "kapsle ariel",
+    "ariel akce",
+    "ariel gel",
+    "ariel sensitive",
+    "ariel professional",
+    "ariel kapsle akce",
+    "ariel gel akce",
+    "ariel color",
+    "ariel 5l",
+    "ariel universal",
+    "ariel professional color"
+   ],
+   "color": "#eda100",
+   "tokens": [
+    "ariel"
+   ],
+   "dash": false
+  },
+  {
+   "name": "Felix",
+   "keywords": [
+    "felix",
+    "felix kapsičky akce",
+    "felix kapsičky",
+    "kapsičky felix",
+    "kapsičky felix akce",
+    "felix kapsičky 44 ks akce",
+    "felix akce",
+    "felix v akci",
+    "felix fantastic",
+    "kapsičky felix v akci",
+    "felix fantastic akce",
+    "kapsicky felix",
+    "kapsičky pro kočky felix akce",
+    "kapsičky pro kočky felix",
+    "felix kapsičky 44 ks"
+   ],
+   "color": "#e87ba4",
+   "tokens": [
+    "felix"
+   ],
+   "dash": false
+  },
+  {
+   "name": "Persil",
+   "keywords": [
+    "persil",
+    "persil akce",
+    "persil sensitive gel",
+    "persil gel akce",
+    "akce persil gel",
+    "persil gel",
+    "persil v akci",
+    "persil na bílé prádlo",
+    "persil sensitive 100",
+    "persil sensitive gel akce",
+    "persil sensitive akce",
+    "akce persil",
+    "persil activ gel",
+    "persil prášek akce",
+    "persil 4v1"
+   ],
+   "color": "#008300",
+   "tokens": [
+    "persil"
+   ],
+   "dash": false
+  },
+  {
+   "name": "Beauty of Joseon",
+   "keywords": [
+    "beauty of joseon",
+    "beauty of joseon spf",
+    "beauty of joseon cz"
+   ],
+   "color": "#6250d6",
+   "tokens": [
+    "beauty",
+    "of",
+    "joseon"
+   ],
+   "dash": false
+  },
+  {
+   "name": "Mooyam",
+   "keywords": [
+    "mooyam"
+   ],
+   "color": "#e34948",
+   "tokens": [
+    "mooyam"
+   ],
+   "dash": false
+  },
+  {
+   "name": "Curaprox",
+   "keywords": [
+    "curaprox",
+    "kartáček curaprox",
+    "curaprox 5460",
+    "curaprox cs 5460",
+    "curaprox ultra soft 5460",
+    "curaprox ultra soft",
+    "curaprox travel set",
+    "curaprox 3960",
+    "curaprox perio plus",
+    "zubní kartáček curaprox",
+    "curaprox black is white",
+    "curaprox 405",
+    "curaprox hydrosonic pro",
+    "curaprox be you",
+    "curaprox enzycal 1450"
+   ],
+   "color": "#2a78d6",
+   "tokens": [
+    "curaprox"
+   ],
+   "dash": true
+  },
+  {
+   "name": "Dr. Althea",
+   "keywords": [
+    "dr althea",
+    "dr althea 345"
+   ],
+   "color": "#eb6834",
+   "tokens": [
+    "dr",
+    "althea"
+   ],
+   "dash": true
+  },
+  {
+   "name": "Dermacol",
+   "keywords": [
+    "dermacol",
+    "dermacol make up",
+    "dermacol make up cover",
+    "make up dermacol",
+    "dermacol 16h lip colour",
+    "dermacol makeup",
+    "dermacol bb cream",
+    "dermacol cover",
+    "dermacol caviar",
+    "dermacol infinity",
+    "dermacol caviar long stay",
+    "dermacol 221",
+    "dermacol 208"
+   ],
+   "color": "#1baf7a",
+   "tokens": [
+    "dermacol"
+   ],
+   "dash": true
+  },
+  {
+   "name": "L'Oréal Paris",
+   "keywords": [
+    "loreal",
+    "l oréal true match",
+    "l oréal revitalift",
+    "loreal laser",
+    "l oreal casting creme gloss",
+    "l oreal make up",
+    "loreal absolut repair",
+    "loreal revitalift laser",
+    "l oreal men's expert",
+    "loreal excellence",
+    "loreal elseve",
+    "excellence l oreal",
+    "elseve loreal",
+    "l oréal telescopic",
+    "l oréal bb cream"
+   ],
+   "color": "#eda100",
+   "tokens": [
+    "loreal",
+    "l",
+    "oreal"
+   ],
+   "dash": true
+  }
+ ],
+ "konkurence": [
+  {
+   "name": "Teta",
+   "color": "#2a78d6",
+   "client": true,
+   "keywords": [
+    "teta drogerie",
+    "drogerie teta",
+    "teta drogerie eshop",
+    "teta eshop",
+    "drogerie teta eshop",
+    "tete drogerie",
+    "teta akce",
+    "teta drogerie produkty",
+    "eshop teta",
+    "teta drogerie akce",
+    "drogerie teta akce",
+    "teta shop",
+    "teta drogerie foto",
+    "teta drogerie online",
+    "foto teta drogerie",
+    "teta letak"
+   ],
+   "tokens": [
+    "teta",
+    "tete"
+   ],
+   "navigational_only": true
+  },
+  {
+   "name": "dm",
+   "color": "#eda100",
+   "client": false,
+   "keywords": [
+    "dm drogerie",
+    "dm shop",
+    "dm české budějovice",
+    "dm dro",
+    "www drogerie dm",
+    "dm drogerie shop",
+    "dm drogerie menstruační kalhotky",
+    "dm nákup online",
+    "online dm drogerie",
+    "dm",
+    "dm drogerie eshop",
+    "dm akce"
+   ],
+   "tokens": [
+    "dm"
+   ],
+   "navigational_only": true
+  },
+  {
+   "name": "Rossmann",
+   "color": "#e34948",
+   "client": false,
+   "keywords": [
+    "rossmann",
+    "rossmann cz",
+    "rossmann essence",
+    "menstruační houba rossmann",
+    "probiotikum rossmann",
+    "kosmetická čelenka rossmann",
+    "epilátor na obličej rossmann",
+    "rossmann všiváček",
+    "bělící pásky na zuby rossmann",
+    "odstraňovač žmolků rossmann",
+    "rossmann eshop",
+    "rossmann akce",
+    "rossmann letak"
+   ],
+   "tokens": [
+    "rossmann"
+   ],
+   "navigational_only": true
+  },
+  {
+   "name": "Notino",
+   "color": "#6250d6",
+   "client": false,
+   "keywords": [
+    "notino",
+    "notino cz",
+    "notino sleva",
+    "notino česká",
+    "notino cz online shop",
+    "sleva notino",
+    "notino kupony",
+    "notino slevy",
+    "notino akce",
+    "kupon notino",
+    "notino chloe",
+    "notino armani",
+    "notino cz sleva",
+    "slevy notino",
+    "notino dior"
+   ],
+   "tokens": [
+    "notino"
+   ],
+   "navigational_only": true
+  },
+  {
+   "name": "Pilulka",
+   "color": "#1baf7a",
+   "client": false,
+   "keywords": [
+    "pilulka",
+    "pilulka cz",
+    "pilulka lékárna",
+    "pilulka cz eshop",
+    "lékárna pilulka",
+    "pilulka eshop",
+    "potratová pilulka dr max",
+    "pilulka sleva",
+    "pilulka hořce",
+    "lékárna pilulka eshop",
+    "pilulka české budějovice",
+    "e pilulka",
+    "pilulka bílého zámotku",
+    "eshop pilulka",
+    "pilulka česká lípa"
+   ],
+   "tokens": [
+    "pilulka"
+   ],
+   "navigational_only": true
+  }
+ ],
+ "navigational_words": [
+  "akce",
+  "akci",
+  "aplikace",
+  "app",
+  "ceska",
+  "cesko",
+  "cz",
+  "doba",
+  "dro",
+  "drogerie",
+  "drogerii",
+  "e",
+  "eshop",
+  "karta",
+  "kod",
+  "kupon",
+  "kupony",
+  "lekarna",
+  "letak",
+  "nakup",
+  "online",
+  "oteviraci",
+  "prodejna",
+  "prodejny",
+  "shop",
+  "sleva",
+  "slevovy",
+  "slevy",
+  "www"
+ ],
+ "exclude_words": [
+  "alterna",
+  "azbest",
+  "balea",
+  "bandi",
+  "barel",
+  "benefit",
+  "blue",
+  "bona",
+  "boss",
+  "box",
+  "bozita",
+  "buldocky",
+  "cap",
+  "chi",
+  "chloe",
+  "civavy",
+  "dekorativni",
+  "diesel",
+  "donna",
+  "dorina",
+  "essence",
+  "essens",
+  "eternity",
+  "eurona",
+  "ford",
+  "gum",
+  "holika",
+  "ichtyol",
+  "jezevcika",
+  "jo",
+  "just",
+  "k9",
+  "karan",
+  "klar",
+  "krystal",
+  "kupi",
+  "kvitok",
+  "libre",
+  "lilite",
+  "lr",
+  "mainske",
+  "malone",
+  "maluna",
+  "milani",
+  "nanoo",
+  "narciso",
+  "nastreleni",
+  "nature",
+  "nd",
+  "nova",
+  "oblecky",
+  "opalescence",
+  "opi",
+  "opium",
+  "optima",
+  "ordinary",
+  "paruky",
+  "plot",
+  "podlozky",
+  "ponio",
+  "prodlouzeni",
+  "radico",
+  "revita",
+  "rihanna",
+  "si",
+  "skin",
+  "splat",
+  "spokojeny",
+  "surf",
+  "sut",
+  "tom",
+  "valentino",
+  "w5",
+  "zelvy"
+ ],
+ "exclude_phrases": [
+  "spot on",
+  "vlasy na prodlouzeni",
+  "moje vlasy",
+  "krasne vlasy",
+  "kralovska snidane",
+  "elektricky plot",
+  "ohrivac prikrmu",
+  "davkovac krmiva",
+  "zimni oblecky",
+  "pytle na azbest",
+  "pytle na sut",
+  "doza na praci",
+  "nadoba na praci",
+  "davkovac zubni",
+  "zasobnik na",
+  "drzak na",
+  "pouzdro na",
+  "stojanek na",
+  "pratelne podlozky",
+  "absorpcni podlozky",
+  "extremne sucha plet",
+  "pristroj na pripravu"
+ ],
+ "exclude_exact": [
+  "dehydratovana plet",
+  "extremne sucha plet",
+  "mastne lupy",
+  "mastne vlasy",
+  "posileni vlasu",
+  "proti padani vlasu",
+  "rust vlasu",
+  "do mycky",
+  "sonicky",
+  "kartacky",
+  "kartacek",
+  "krmivo",
+  "granule akce",
+  "granule v akci",
+  "granule senior",
+  "granule pro seniory",
+  "granule bez obilovin",
+  "stelivo",
+  "avivaz",
+  "avivaze",
+  "sampony",
+  "sonicky nebo rotacni",
+  "krmivo pes",
+  "psi zradlo",
+  "zradlo pro psy",
+  "zradlo pro kocky",
+  "el kartacek",
+  "kartacek elektricky",
+  "kartacek sonicky"
+ ]
+}

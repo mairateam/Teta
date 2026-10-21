@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chart.js": "^4.4.1",
+    "dictionary-cs": "^4.0.0"
+  }
+}
